@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "type": "note",
+      "message": "We have just released a new version 6.66.66 with a lot of awesome features!!!"
+    },
+    {
+      "type": "warning",
+      "message": "We are experiencing some load in our backend, expect some slight performance drops."
+    }
+  ],
+  [
+    {
+      "type": "error",
+      "message": "You are using a very old 1.23.45 version of our library, you have 666 days before we drop support."
+    },
+    {
+      "type": "warning",
+      "message": "You have approached 80% of your usage cap, contact support for an extension."
+    },
+    {
+      "type": "note",
+      "message": "We have just released a new version 6.66.66 with a lot of awesome features!!!"
+    }
+  ],
+  [
+    {
+      "type": "note",
+      "message": "We have just released a new version 6.66.66 with a lot of awesome features!!!"
+    },
+    {
+      "type": "note",
+      "message": "Welcome new client, please contact support for information on how to integrate us into your system."
+    }
+  ]
+]

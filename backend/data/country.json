@@ -1,0 +1,996 @@
+[
+   {
+     "cdn": 7.91232087886e+11,
+     "p2p": 1.849009162936e+12,
+     "total": 2.640241250822e+12,
+     "percentage": 71,
+     "country": "PL"
+   },
+   {
+     "cdn": 2.27316416561e+11,
+     "p2p": 8.77714468396e+11,
+     "total": 1.105030884957e+12,
+     "percentage": 80,
+     "country": "GB"
+   },
+   {
+     "cdn": 1.25605578735e+11,
+     "p2p": 5.20776856844e+11,
+     "total": 6.46382435579e+11,
+     "percentage": 81,
+     "country": "DE"
+   },
+   {
+     "cdn": 8.0122635479e+10,
+     "p2p": 1.88864781168e+11,
+     "total": 2.68987416647e+11,
+     "percentage": 71,
+     "country": "NL"
+   },
+   {
+     "cdn": 3.1512701137e+10,
+     "p2p": 1.86601837636e+11,
+     "total": 2.18114538773e+11,
+     "percentage": 86,
+     "country": "RU"
+   },
+   {
+     "cdn": 3.8143148016e+10,
+     "p2p": 1.30076891204e+11,
+     "total": 1.6822003922e+11,
+     "percentage": 78,
+     "country": "NO"
+   },
+   {
+     "cdn": 2.4799836784e+10,
+     "p2p": 1.03787725856e+11,
+     "total": 1.2858756264e+11,
+     "percentage": 81,
+     "country": "IE"
+   },
+   {
+     "cdn": 2.5963598152e+10,
+     "p2p": 9.0258409992e+10,
+     "total": 1.16222008144e+11,
+     "percentage": 78,
+     "country": "US"
+   },
+   {
+     "cdn": 1.245844116e+10,
+     "p2p": 7.9582046076e+10,
+     "total": 9.2040487236e+10,
+     "percentage": 87,
+     "country": "UA"
+   },
+   {
+     "cdn": 2.927347766e+10,
+     "p2p": 6.1498906844e+10,
+     "total": 9.0772384504e+10,
+     "percentage": 68,
+     "country": "SE"
+   },
+   {
+     "cdn": 1.8112116104e+10,
+     "p2p": 7.2397523136e+10,
+     "total": 9.050963924e+10,
+     "percentage": 80,
+     "country": "FR"
+   },
+   {
+     "cdn": 2.9394101156e+10,
+     "p2p": 5.431335324e+10,
+     "total": 8.3707454396e+10,
+     "percentage": 65,
+     "country": "AT"
+   },
+   {
+     "cdn": 1.8029182932e+10,
+     "p2p": 5.3591113468e+10,
+     "total": 7.16202964e+10,
+     "percentage": 75,
+     "country": "BE"
+   },
+   {
+     "cdn": 1.2202801376e+10,
+     "p2p": 5.10698441e+10,
+     "total": 6.3272645476e+10,
+     "percentage": 81,
+     "country": "CA"
+   },
+   {
+     "cdn": 1.694320908e+10,
+     "p2p": 3.9629117996e+10,
+     "total": 5.6572327076e+10,
+     "percentage": 71,
+     "country": "DK"
+   },
+   {
+     "cdn": 1.9197771204e+10,
+     "p2p": 3.4439195084e+10,
+     "total": 5.3636966288e+10,
+     "percentage": 65,
+     "country": "CH"
+   },
+   {
+     "cdn": 6.226051348e+09,
+     "p2p": 4.137583054e+10,
+     "total": 4.7601881888e+10,
+     "percentage": 87,
+     "country": "MY"
+   },
+   {
+     "cdn": 8.512765712e+09,
+     "p2p": 2.8395745912e+10,
+     "total": 3.6908511624e+10,
+     "percentage": 77,
+     "country": "IN"
+   },
+   {
+     "cdn": 8.999937216e+09,
+     "p2p": 2.3207822612e+10,
+     "total": 3.2207759828e+10,
+     "percentage": 73,
+     "country": "ES"
+   },
+   {
+     "cdn": 9.913826524e+09,
+     "p2p": 1.984241116e+10,
+     "total": 2.9756237684e+10,
+     "percentage": 67,
+     "country": "IT"
+   },
+   {
+     "cdn": 1.1067496664e+10,
+     "p2p": 1.662883246e+10,
+     "total": 2.7696329124e+10,
+     "percentage": 61,
+     "country": "FI"
+   },
+   {
+     "cdn": 2.174302448e+09,
+     "p2p": 2.3709534376e+10,
+     "total": 2.5883836824e+10,
+     "percentage": 92,
+     "country": "CZ"
+   },
+   {
+     "cdn": 4.164474596e+09,
+     "p2p": 1.9474567948e+10,
+     "total": 2.3639042544e+10,
+     "percentage": 83,
+     "country": "PT"
+   },
+   {
+     "cdn": 6.409315724e+09,
+     "p2p": 1.5225583652e+10,
+     "total": 2.1634899376e+10,
+     "percentage": 71,
+     "country": "IS"
+   },
+   {
+     "cdn": 3.622222092e+09,
+     "p2p": 1.527754962e+10,
+     "total": 1.8899771712e+10,
+     "percentage": 81,
+     "country": "AE"
+   },
+   {
+     "cdn": 3.974574684e+09,
+     "p2p": 1.295897982e+10,
+     "total": 1.6933554504e+10,
+     "percentage": 77,
+     "country": "GH"
+   },
+   {
+     "cdn": 2.17989826e+09,
+     "p2p": 1.425296554e+10,
+     "total": 1.64328638e+10,
+     "percentage": 87,
+     "country": "AU"
+   },
+   {
+     "cdn": 2.889925064e+09,
+     "p2p": 1.146783936e+10,
+     "total": 1.4357764424e+10,
+     "percentage": 80,
+     "country": "EE"
+   },
+   {
+     "cdn": 9.21226296e+08,
+     "p2p": 1.089586564e+10,
+     "total": 1.1817091936e+10,
+     "percentage": 93,
+     "country": "QA"
+   },
+   {
+     "cdn": 7.30231612e+08,
+     "p2p": 1.0054388436e+10,
+     "total": 1.0784620048e+10,
+     "percentage": 94,
+     "country": "IL"
+   },
+   {
+     "cdn": 9.62274e+08,
+     "p2p": 8.680288996e+09,
+     "total": 9.642562996e+09,
+     "percentage": 91,
+     "country": "MD"
+   },
+   {
+     "cdn": 1.008071528e+09,
+     "p2p": 8.400860788e+09,
+     "total": 9.408932316e+09,
+     "percentage": 90,
+     "country": "RS"
+   },
+   {
+     "cdn": 1.871254524e+09,
+     "p2p": 6.130450284e+09,
+     "total": 8.001704808e+09,
+     "percentage": 77,
+     "country": "LT"
+   },
+   {
+     "cdn": 6.35808456e+08,
+     "p2p": 6.235246448e+09,
+     "total": 6.871054904e+09,
+     "percentage": 91,
+     "country": "MT"
+   },
+   {
+     "cdn": 1.746257e+09,
+     "p2p": 4.79369598e+09,
+     "total": 6.53995298e+09,
+     "percentage": 74,
+     "country": "SK"
+   },
+   {
+     "cdn": 1.490830472e+09,
+     "p2p": 4.999909356e+09,
+     "total": 6.490739828e+09,
+     "percentage": 78,
+     "country": "PK"
+   },
+   {
+     "cdn": 1.683654988e+09,
+     "p2p": 4.724489324e+09,
+     "total": 6.408144312e+09,
+     "percentage": 74,
+     "country": "SA"
+   },
+   {
+     "cdn": 4.54080784e+08,
+     "p2p": 5.946048204e+09,
+     "total": 6.400128988e+09,
+     "percentage": 93,
+     "country": "TT"
+   },
+   {
+     "cdn": 1.288267324e+09,
+     "p2p": 5.046525968e+09,
+     "total": 6.334793292e+09,
+     "percentage": 80,
+     "country": "ZA"
+   },
+   {
+     "cdn": 7.935964e+08,
+     "p2p": 5.420837332e+09,
+     "total": 6.214433732e+09,
+     "percentage": 88,
+     "country": "GE"
+   },
+   {
+     "cdn": 3.987579716e+09,
+     "p2p": 1.81271578e+09,
+     "total": 5.800295496e+09,
+     "percentage": 32,
+     "country": "TZ"
+   },
+   {
+     "cdn": 1.110942768e+09,
+     "p2p": 4.649707796e+09,
+     "total": 5.760650564e+09,
+     "percentage": 81,
+     "country": "AL"
+   },
+   {
+     "cdn": 7.75830004e+08,
+     "p2p": 4.961970792e+09,
+     "total": 5.737800796e+09,
+     "percentage": 87,
+     "country": "MU"
+   },
+   {
+     "cdn": 1.985984436e+09,
+     "p2p": 3.138558104e+09,
+     "total": 5.12454254e+09,
+     "percentage": 62,
+     "country": "SI"
+   },
+   {
+     "cdn": 1.596216216e+09,
+     "p2p": 2.961937408e+09,
+     "total": 4.558153624e+09,
+     "percentage": 65,
+     "country": "NZ"
+   },
+   {
+     "cdn": 4.62904044e+08,
+     "p2p": 4.073385212e+09,
+     "total": 4.536289256e+09,
+     "percentage": 90,
+     "country": "AM"
+   },
+   {
+     "cdn": 6.825789e+08,
+     "p2p": 3.185308284e+09,
+     "total": 3.867887184e+09,
+     "percentage": 83,
+     "country": "BD"
+   },
+   {
+     "cdn": 1.319781556e+09,
+     "p2p": 2.519158516e+09,
+     "total": 3.838940072e+09,
+     "percentage": 66,
+     "country": "MX"
+   },
+   {
+     "cdn": 5.34392476e+08,
+     "p2p": 3.155690136e+09,
+     "total": 3.690082612e+09,
+     "percentage": 86,
+     "country": "HU"
+   },
+   {
+     "cdn": 6.84154008e+08,
+     "p2p": 2.963691772e+09,
+     "total": 3.64784578e+09,
+     "percentage": 82,
+     "country": "HR"
+   },
+   {
+     "cdn": 2.11544396e+08,
+     "p2p": 3.339463712e+09,
+     "total": 3.551008108e+09,
+     "percentage": 95,
+     "country": ""
+   },
+   {
+     "cdn": 4.79615592e+08,
+     "p2p": 2.865582228e+09,
+     "total": 3.34519782e+09,
+     "percentage": 86,
+     "country": "BB"
+   },
+   {
+     "cdn": 2.80341104e+08,
+     "p2p": 2.519096584e+09,
+     "total": 2.799437688e+09,
+     "percentage": 90,
+     "country": "PH"
+   },
+   {
+     "cdn": 1.83229864e+08,
+     "p2p": 2.524498416e+09,
+     "total": 2.70772828e+09,
+     "percentage": 94,
+     "country": "HK"
+   },
+   {
+     "cdn": 4.3814976e+08,
+     "p2p": 2.158286092e+09,
+     "total": 2.596435852e+09,
+     "percentage": 84,
+     "country": "XK"
+   },
+   {
+     "cdn": 1.76869176e+08,
+     "p2p": 2.37348938e+09,
+     "total": 2.550358556e+09,
+     "percentage": 94,
+     "country": "BR"
+   },
+   {
+     "cdn": 1.39186712e+08,
+     "p2p": 2.399568108e+09,
+     "total": 2.53875482e+09,
+     "percentage": 95,
+     "country": "VN"
+   },
+   {
+     "cdn": 9.52308732e+08,
+     "p2p": 1.543552572e+09,
+     "total": 2.495861304e+09,
+     "percentage": 62,
+     "country": "BA"
+   },
+   {
+     "cdn": 9.01908116e+08,
+     "p2p": 1.546198744e+09,
+     "total": 2.44810686e+09,
+     "percentage": 64,
+     "country": "RO"
+   },
+   {
+     "cdn": 5.65400948e+08,
+     "p2p": 1.398412084e+09,
+     "total": 1.963813032e+09,
+     "percentage": 72,
+     "country": "NP"
+   },
+   {
+     "cdn": 4.48619996e+08,
+     "p2p": 1.444425888e+09,
+     "total": 1.893045884e+09,
+     "percentage": 77,
+     "country": "LK"
+   },
+   {
+     "cdn": 4.39662708e+08,
+     "p2p": 1.290434552e+09,
+     "total": 1.73009726e+09,
+     "percentage": 75,
+     "country": "JM"
+   },
+   {
+     "cdn": 2.7039358e+08,
+     "p2p": 1.3879234e+09,
+     "total": 1.65831698e+09,
+     "percentage": 84,
+     "country": "BM"
+   },
+   {
+     "cdn": 2.13406956e+08,
+     "p2p": 1.41171148e+09,
+     "total": 1.625118436e+09,
+     "percentage": 87,
+     "country": "GY"
+   },
+   {
+     "cdn": 5.901329e+08,
+     "p2p": 8.9149134e+08,
+     "total": 1.48162424e+09,
+     "percentage": 61,
+     "country": "EG"
+   },
+   {
+     "cdn": 9.1785668e+07,
+     "p2p": 1.388642516e+09,
+     "total": 1.480428184e+09,
+     "percentage": 94,
+     "country": "RW"
+   },
+   {
+     "cdn": 2.01541576e+08,
+     "p2p": 1.227127952e+09,
+     "total": 1.428669528e+09,
+     "percentage": 86,
+     "country": "JP"
+   },
+   {
+     "cdn": 2.26657524e+08,
+     "p2p": 1.142136824e+09,
+     "total": 1.368794348e+09,
+     "percentage": 84,
+     "country": "LU"
+   },
+   {
+     "cdn": 1.39167884e+08,
+     "p2p": 1.132465608e+09,
+     "total": 1.271633492e+09,
+     "percentage": 90,
+     "country": "TN"
+   },
+   {
+     "cdn": 1.44404604e+08,
+     "p2p": 1.048157736e+09,
+     "total": 1.19256234e+09,
+     "percentage": 88,
+     "country": "LC"
+   },
+   {
+     "cdn": 3.53689184e+08,
+     "p2p": 8.33100672e+08,
+     "total": 1.186789856e+09,
+     "percentage": 71,
+     "country": "KH"
+   },
+   {
+     "cdn": 8.76332308e+08,
+     "p2p": 2.89086084e+08,
+     "total": 1.165418392e+09,
+     "percentage": 25,
+     "country": "EC"
+   },
+   {
+     "cdn": 3.8747148e+07,
+     "p2p": 1.092896856e+09,
+     "total": 1.131644004e+09,
+     "percentage": 97,
+     "country": "KE"
+   },
+   {
+     "cdn": 4.44055708e+08,
+     "p2p": 6.49924188e+08,
+     "total": 1.093979896e+09,
+     "percentage": 60,
+     "country": "JE"
+   },
+   {
+     "cdn": 6.04095104e+08,
+     "p2p": 3.6807696e+08,
+     "total": 9.72172064e+08,
+     "percentage": 38,
+     "country": "AZ"
+   },
+   {
+     "cdn": 2.759428e+07,
+     "p2p": 9.36025664e+08,
+     "total": 9.63619944e+08,
+     "percentage": 98,
+     "country": "CO"
+   },
+   {
+     "cdn": 1.38398896e+08,
+     "p2p": 8.1507168e+08,
+     "total": 9.53470576e+08,
+     "percentage": 86,
+     "country": "GF"
+   },
+   {
+     "cdn": 8.91524836e+08,
+     "p2p": 5.872812e+07,
+     "total": 9.50252956e+08,
+     "percentage": 7,
+     "country": "OM"
+   },
+   {
+     "cdn": 1.22933516e+08,
+     "p2p": 8.06829884e+08,
+     "total": 9.297634e+08,
+     "percentage": 87,
+     "country": "MA"
+   },
+   {
+     "cdn": 1.52400316e+08,
+     "p2p": 7.55366332e+08,
+     "total": 9.07766648e+08,
+     "percentage": 84,
+     "country": "IM"
+   },
+   {
+     "cdn": 1.01034372e+08,
+     "p2p": 7.69123816e+08,
+     "total": 8.70158188e+08,
+     "percentage": 89,
+     "country": "BW"
+   },
+   {
+     "cdn": 2.411448e+06,
+     "p2p": 8.4414616e+08,
+     "total": 8.46557608e+08,
+     "percentage": 100,
+     "country": "AO"
+   },
+   {
+     "cdn": 1.22769572e+08,
+     "p2p": 6.99539984e+08,
+     "total": 8.22309556e+08,
+     "percentage": 86,
+     "country": "MK"
+   },
+   {
+     "cdn": 1.10966456e+08,
+     "p2p": 6.70153616e+08,
+     "total": 7.81120072e+08,
+     "percentage": 86,
+     "country": "AG"
+   },
+   {
+     "cdn": 1.4176664e+07,
+     "p2p": 7.09933536e+08,
+     "total": 7.241102e+08,
+     "percentage": 99,
+     "country": "FJ"
+   },
+   {
+     "cdn": 3.7427252e+08,
+     "p2p": 3.4544412e+08,
+     "total": 7.1971664e+08,
+     "percentage": 48,
+     "country": "CR"
+   },
+   {
+     "cdn": 1.58647208e+08,
+     "p2p": 5.48072616e+08,
+     "total": 7.06719824e+08,
+     "percentage": 78,
+     "country": "NI"
+   },
+   {
+     "cdn": 2.7286808e+07,
+     "p2p": 6.5331474e+08,
+     "total": 6.80601548e+08,
+     "percentage": 96,
+     "country": "GD"
+   },
+   {
+     "cdn": 5.141272e+06,
+     "p2p": 6.49426976e+08,
+     "total": 6.54568248e+08,
+     "percentage": 100,
+     "country": "BS"
+   },
+   {
+     "cdn": 2.711081e+08,
+     "p2p": 3.74771728e+08,
+     "total": 6.45879828e+08,
+     "percentage": 59,
+     "country": "BY"
+   },
+   {
+     "cdn": 2.37138064e+08,
+     "p2p": 3.95213096e+08,
+     "total": 6.3235116e+08,
+     "percentage": 63,
+     "country": "DZ"
+   },
+   {
+     "cdn": 5.8256144e+07,
+     "p2p": 5.52110108e+08,
+     "total": 6.10366252e+08,
+     "percentage": 91,
+     "country": "GM"
+   },
+   {
+     "cdn": 3.176484e+06,
+     "p2p": 6.0148096e+08,
+     "total": 6.04657444e+08,
+     "percentage": 100,
+     "country": "BH"
+   },
+   {
+     "cdn": 5.76136724e+08,
+     "p2p": 1.677072e+07,
+     "total": 5.92907444e+08,
+     "percentage": 3,
+     "country": "ET"
+   },
+   {
+     "cdn": 3.06037448e+08,
+     "p2p": 2.766114e+08,
+     "total": 5.82648848e+08,
+     "percentage": 48,
+     "country": "BO"
+   },
+   {
+     "cdn": 1.9731998e+08,
+     "p2p": 3.67184048e+08,
+     "total": 5.64504028e+08,
+     "percentage": 66,
+     "country": "SG"
+   },
+   {
+     "cdn": 1.5756832e+07,
+     "p2p": 5.44458916e+08,
+     "total": 5.60215748e+08,
+     "percentage": 98,
+     "country": "MM"
+   },
+   {
+     "cdn": 1.16747876e+08,
+     "p2p": 4.373778e+08,
+     "total": 5.54125676e+08,
+     "percentage": 79,
+     "country": "IR"
+   },
+   {
+     "cdn": 4.0625724e+07,
+     "p2p": 4.51545868e+08,
+     "total": 4.92171592e+08,
+     "percentage": 92,
+     "country": "KY"
+   },
+   {
+     "cdn": 1.0565054e+08,
+     "p2p": 3.46453928e+08,
+     "total": 4.52104468e+08,
+     "percentage": 77,
+     "country": "SO"
+   },
+   {
+     "cdn": 2.39414272e+08,
+     "p2p": 2.07483348e+08,
+     "total": 4.4689762e+08,
+     "percentage": 47,
+     "country": "ZW"
+   },
+   {
+     "cdn": 3.9359962e+08,
+     "p2p": 0,
+     "total": 3.9359962e+08,
+     "percentage": 0,
+     "country": "UG"
+   },
+   {
+     "cdn": 1.257312e+07,
+     "p2p": 3.70017408e+08,
+     "total": 3.82590528e+08,
+     "percentage": 97,
+     "country": "SL"
+   },
+   {
+     "cdn": 6.5526524e+07,
+     "p2p": 3.14779616e+08,
+     "total": 3.8030614e+08,
+     "percentage": 83,
+     "country": "CI"
+   },
+   {
+     "cdn": 2.1012812e+07,
+     "p2p": 3.58194844e+08,
+     "total": 3.79207656e+08,
+     "percentage": 95,
+     "country": "CL"
+   },
+   {
+     "cdn": 2.1339892e+07,
+     "p2p": 3.56365832e+08,
+     "total": 3.77705724e+08,
+     "percentage": 95,
+     "country": "KN"
+   },
+   {
+     "cdn": 2.6794396e+07,
+     "p2p": 1.84466844e+08,
+     "total": 2.1126124e+08,
+     "percentage": 88,
+     "country": "AR"
+   },
+   {
+     "cdn": 1.8412624e+08,
+     "p2p": 3.984868e+06,
+     "total": 1.88111108e+08,
+     "percentage": 3,
+     "country": "BI"
+   },
+   {
+     "cdn": 7.370592e+06,
+     "p2p": 1.8063486e+08,
+     "total": 1.88005452e+08,
+     "percentage": 97,
+     "country": "MV"
+   },
+   {
+     "cdn": 2.0081972e+07,
+     "p2p": 1.6563458e+08,
+     "total": 1.85716552e+08,
+     "percentage": 90,
+     "country": "IQ"
+   },
+   {
+     "cdn": 4.593994e+07,
+     "p2p": 1.33540652e+08,
+     "total": 1.79480592e+08,
+     "percentage": 75,
+     "country": "KR"
+   },
+   {
+     "cdn": 5.0954812e+07,
+     "p2p": 1.20745024e+08,
+     "total": 1.71699836e+08,
+     "percentage": 71,
+     "country": "LB"
+   },
+   {
+     "cdn": 1.06845032e+08,
+     "p2p": 4.9645228e+07,
+     "total": 1.5649026e+08,
+     "percentage": 32,
+     "country": "CD"
+   },
+   {
+     "cdn": 3.0882276e+07,
+     "p2p": 1.18611376e+08,
+     "total": 1.49493652e+08,
+     "percentage": 80,
+     "country": "KW"
+   },
+   {
+     "cdn": 5.6488308e+07,
+     "p2p": 7.554146e+07,
+     "total": 1.32029768e+08,
+     "percentage": 58,
+     "country": "LI"
+   },
+   {
+     "cdn": 9.6986508e+07,
+     "p2p": 3.1208624e+07,
+     "total": 1.28195132e+08,
+     "percentage": 25,
+     "country": "NG"
+   },
+   {
+     "cdn": 6.3909248e+07,
+     "p2p": 6.0022232e+07,
+     "total": 1.2393148e+08,
+     "percentage": 49,
+     "country": "GP"
+   },
+   {
+     "cdn": 6.849208e+06,
+     "p2p": 1.14158684e+08,
+     "total": 1.21007892e+08,
+     "percentage": 95,
+     "country": "KZ"
+   },
+   {
+     "cdn": 7.120244e+06,
+     "p2p": 1.00837252e+08,
+     "total": 1.07957496e+08,
+     "percentage": 94,
+     "country": "SV"
+   },
+   {
+     "cdn": 9.9596272e+07,
+     "p2p": 1.334536e+06,
+     "total": 1.00930808e+08,
+     "percentage": 2,
+     "country": "MZ"
+   },
+   {
+     "cdn": 7.355616e+06,
+     "p2p": 7.36643e+07,
+     "total": 8.1019916e+07,
+     "percentage": 91,
+     "country": "UY"
+   },
+   {
+     "cdn": 3.6217376e+07,
+     "p2p": 4.3787904e+07,
+     "total": 8.000528e+07,
+     "percentage": 55,
+     "country": "ZM"
+   },
+   {
+     "cdn": 6.593584e+07,
+     "p2p": 1.0134788e+07,
+     "total": 7.6070628e+07,
+     "percentage": 14,
+     "country": "DM"
+   },
+   {
+     "cdn": 2.931124e+07,
+     "p2p": 3.5639188e+07,
+     "total": 6.4950428e+07,
+     "percentage": 55,
+     "country": "KG"
+   },
+   {
+     "cdn": 6.943076e+06,
+     "p2p": 4.507522e+07,
+     "total": 5.2018296e+07,
+     "percentage": 87,
+     "country": "LA"
+   },
+   {
+     "cdn": 1.1694916e+07,
+     "p2p": 2.580018e+07,
+     "total": 3.7495096e+07,
+     "percentage": 69,
+     "country": "PE"
+   },
+   {
+     "cdn": 2.923532e+07,
+     "p2p": 578284,
+     "total": 2.9813604e+07,
+     "percentage": 2,
+     "country": "ME"
+   },
+   {
+     "cdn": 3.5253e+06,
+     "p2p": 1.8106544e+07,
+     "total": 2.1631844e+07,
+     "percentage": 84,
+     "country": "YT"
+   },
+   {
+     "cdn": 7.614088e+06,
+     "p2p": 2.122056e+06,
+     "total": 9.736144e+06,
+     "percentage": 22,
+     "country": "PS"
+   },
+   {
+     "cdn": 6.657832e+06,
+     "p2p": 0,
+     "total": 6.657832e+06,
+     "percentage": 0,
+     "country": "CV"
+   },
+   {
+     "cdn": 3.571704e+06,
+     "p2p": 955524,
+     "total": 4.527228e+06,
+     "percentage": 22,
+     "country": "MW"
+   },
+   {
+     "cdn": 346032,
+     "p2p": 3.782824e+06,
+     "total": 4.128856e+06,
+     "percentage": 92,
+     "country": "VC"
+   },
+   {
+     "cdn": 3.9292e+06,
+     "p2p": 0,
+     "total": 3.9292e+06,
+     "percentage": 0,
+     "country": "GL"
+   },
+   {
+     "cdn": 0,
+     "p2p": 3.594372e+06,
+     "total": 3.594372e+06,
+     "percentage": 100,
+     "country": "NA"
+   },
+   {
+     "cdn": 1.900304e+06,
+     "p2p": 1.537088e+06,
+     "total": 3.437392e+06,
+     "percentage": 45,
+     "country": "PR"
+   },
+   {
+     "cdn": 2.652868e+06,
+     "p2p": 0,
+     "total": 2.652868e+06,
+     "percentage": 0,
+     "country": "BN"
+   },
+   {
+     "cdn": 0,
+     "p2p": 2.242464e+06,
+     "total": 2.242464e+06,
+     "percentage": 100,
+     "country": "VE"
+   },
+   {
+     "cdn": 373180,
+     "p2p": 1.46734e+06,
+     "total": 1.84052e+06,
+     "percentage": 80,
+     "country": "SX"
+   },
+   {
+     "cdn": 1.39966e+06,
+     "p2p": 0,
+     "total": 1.39966e+06,
+     "percentage": 0,
+     "country": "CW"
+   },
+   {
+     "cdn": 1.131948e+06,
+     "p2p": 0,
+     "total": 1.131948e+06,
+     "percentage": 0,
+     "country": "SR"
+   },
+   {
+     "cdn": 1.092656e+06,
+     "p2p": 0,
+     "total": 1.092656e+06,
+     "percentage": 0,
+     "country": "MO"
+   },
+   {
+     "cdn": 1.091528e+06,
+     "p2p": 0,
+     "total": 1.091528e+06,
+     "percentage": 0,
+     "country": "LV"
+   }
+ ]

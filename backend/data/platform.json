@@ -1,0 +1,67 @@
+[
+   {
+     "platform": "web-desktop",
+     "cdn": 4.3673292887e+10,
+     "p2p": 5.667683381e+09,
+     "total": 4.9340976268e+10,
+     "upload": 5.774321084e+09,
+     "percentage": 12,
+     "viewers": 1,
+     "maxViewers": 10,
+     "averageViewers": 1.5725853094274147,
+     "trafficPercentage": 69.49888073943228,
+     "live": "unknown"
+   },
+   {
+     "platform": "web-mobile",
+     "cdn": 4.3673292887e+10,
+     "p2p": 5.667683381e+09,
+     "total": 4.9340976268e+10,
+     "upload": 5.774321084e+09,
+     "percentage": 12,
+     "viewers": 1,
+     "maxViewers": 10,
+     "averageViewers": 1.5725853094274147,
+     "trafficPercentage": 69.49888073943228,
+     "live": "unknown"
+   },
+   {
+     "platform": "android",
+     "cdn": 1.7035777808e+10,
+     "p2p": 1.526916976e+09,
+     "total": 1.8562694784e+10,
+     "upload": 2.753179184e+09,
+     "percentage": 9,
+     "viewers": 1,
+     "maxViewers": 12,
+     "averageViewers": 1.416065911431514,
+     "trafficPercentage": 26.14635154335973,
+     "live": "unknown"
+   },
+   {
+     "platform": "ios",
+     "cdn": 2.994960132e+09,
+     "p2p": 9.6722616e+07,
+     "total": 3.091682748e+09,
+     "upload": 3.3788984e+07,
+     "percentage": 4,
+     "viewers": 1,
+     "maxViewers": 3,
+     "averageViewers": 1.152542372881356,
+     "trafficPercentage": 4.354767717207995,
+     "live": "unknown"
+   },
+   {
+     "platform": "chromecast",
+     "cdn": 2.994960132e+09,
+     "p2p": 9.6722616e+07,
+     "total": 3.091682748e+09,
+     "upload": 3.3788984e+07,
+     "percentage": 4,
+     "viewers": 1,
+     "maxViewers": 3,
+     "averageViewers": 1.152542372881356,
+     "trafficPercentage": 4.354767717207995,
+     "live": "unknown"
+   }
+ ]

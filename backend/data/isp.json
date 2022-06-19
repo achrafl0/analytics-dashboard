@@ -1,0 +1,5000 @@
+[
+   {
+     "cdn": 4.9133377643126e+13,
+     "p2p": 1.7430704160418e+13,
+     "total": 6.6564081803544e+13,
+     "percentage": 27,
+     "isp": "Deutsche Telekom AG"
+   },
+   {
+     "cdn": 4.4806357144071e+13,
+     "p2p": 1.2619938874662e+13,
+     "total": 5.7426296018733e+13,
+     "percentage": 22,
+     "isp": "Orange"
+   },
+   {
+     "cdn": 1.3601415594205e+13,
+     "p2p": 4.3554319134292e+13,
+     "total": 5.7155734728497e+13,
+     "percentage": 77,
+     "isp": "Telenor Norge AS"
+   },
+   {
+     "cdn": 1.813467378419e+13,
+     "p2p": 2.6485377454262e+13,
+     "total": 4.4620051238452e+13,
+     "percentage": 60,
+     "isp": "Elisa Oyj"
+   },
+   {
+     "cdn": 1.1532744577323e+13,
+     "p2p": 2.7276271704142e+13,
+     "total": 3.8809016281465e+13,
+     "percentage": 71,
+     "isp": "DNA Oyj"
+   },
+   {
+     "cdn": 1.9451224698154e+13,
+     "p2p": 5.944208031174e+12,
+     "total": 2.5395432729328e+13,
+     "percentage": 24,
+     "isp": "Free SAS"
+   },
+   {
+     "cdn": 1.6799060486003e+13,
+     "p2p": 6.580658116413e+12,
+     "total": 2.3379718602416e+13,
+     "percentage": 29,
+     "isp": "SFR"
+   },
+   {
+     "cdn": 6.167720819434e+12,
+     "p2p": 1.611119748781e+13,
+     "total": 2.2278918307244e+13,
+     "percentage": 73,
+     "isp": "TeliaSonera Finland Oyj"
+   },
+   {
+     "cdn": 1.4255449747621e+13,
+     "p2p": 5.517946916112e+12,
+     "total": 1.9773396663733e+13,
+     "percentage": 28,
+     "isp": "Vodafone Kabel Deutschland"
+   },
+   {
+     "cdn": 5.706798468647e+12,
+     "p2p": 1.2961758940675e+13,
+     "total": 1.8668557409322e+13,
+     "percentage": 70,
+     "isp": "Telia Finland Oyj"
+   },
+   {
+     "cdn": 5.275286513033e+12,
+     "p2p": 1.31725682752e+13,
+     "total": 1.8447854788233e+13,
+     "percentage": 72,
+     "isp": "Altibox AS"
+   },
+   {
+     "cdn": 6.453982913317e+12,
+     "p2p": 1.0290175304532e+13,
+     "total": 1.6744158217849e+13,
+     "percentage": 62,
+     "isp": "Telia Company"
+   },
+   {
+     "cdn": 1.2401630738503e+13,
+     "p2p": 4.116329955585e+12,
+     "total": 1.6517960694088e+13,
+     "percentage": 25,
+     "isp": "Vodafone DSL"
+   },
+   {
+     "cdn": 1.3309434695328e+13,
+     "p2p": 3.034135102445e+12,
+     "total": 1.6343569797773e+13,
+     "percentage": 19,
+     "isp": "Bouygues Telecom"
+   },
+   {
+     "cdn": 4.089302157707e+12,
+     "p2p": 1.1362302692833e+13,
+     "total": 1.545160485054e+13,
+     "percentage": 74,
+     "isp": "Get AS"
+   },
+   {
+     "cdn": 8.439592450808e+12,
+     "p2p": 2.984602077873e+12,
+     "total": 1.1424194528681e+13,
+     "percentage": 27,
+     "isp": "O2 Deutschland"
+   },
+   {
+     "cdn": 2.667575387406e+12,
+     "p2p": 8.625068496775e+12,
+     "total": 1.1292643884181e+13,
+     "percentage": 77,
+     "isp": "NextGenTel AS"
+   },
+   {
+     "cdn": 4.077178500849e+12,
+     "p2p": 7.09075414483e+12,
+     "total": 1.1167932645679e+13,
+     "percentage": 64,
+     "isp": "TDC Danmark"
+   },
+   {
+     "cdn": 6.829818952476e+12,
+     "p2p": 3.838996581229e+12,
+     "total": 1.0668815533705e+13,
+     "percentage": 36,
+     "isp": "BT"
+   },
+   {
+     "cdn": 4.306861264352e+12,
+     "p2p": 6.252366167485e+12,
+     "total": 1.0559227431837e+13,
+     "percentage": 60,
+     "isp": "RCS \u0026 RDS"
+   },
+   {
+     "cdn": 2.902486631761e+12,
+     "p2p": 7.155978175529e+12,
+     "total": 1.005846480729e+13,
+     "percentage": 72,
+     "isp": "Com Hem AB"
+   },
+   {
+     "cdn": 6.221459968351e+12,
+     "p2p": 3.502885662718e+12,
+     "total": 9.724345631069e+12,
+     "percentage": 37,
+     "isp": "Unitymedia"
+   },
+   {
+     "cdn": 2.341070860784e+12,
+     "p2p": 6.213778220267e+12,
+     "total": 8.554849081051e+12,
+     "percentage": 73,
+     "isp": "Bredbandsbolaget AB"
+   },
+   {
+     "cdn": 5.372137866142e+12,
+     "p2p": 2.148991146002e+12,
+     "total": 7.521129012144e+12,
+     "percentage": 29,
+     "isp": "Kabel BW"
+   },
+   {
+     "cdn": 2.542935631516e+12,
+     "p2p": 4.317992747153e+12,
+     "total": 6.860928378669e+12,
+     "percentage": 63,
+     "isp": "Bahnhof Internet AB"
+   },
+   {
+     "cdn": 1.614085713552e+12,
+     "p2p": 5.18928200815e+12,
+     "total": 6.803367721702e+12,
+     "percentage": 77,
+     "isp": "Broadnet AS"
+   },
+   {
+     "cdn": 3.085690543399e+12,
+     "p2p": 3.116802190913e+12,
+     "total": 6.202492734312e+12,
+     "percentage": 51,
+     "isp": "VOO"
+   },
+   {
+     "cdn": 3.136812634048e+12,
+     "p2p": 3.039566142561e+12,
+     "total": 6.176378776609e+12,
+     "percentage": 50,
+     "isp": "Virgin Media"
+   },
+   {
+     "cdn": 3.840006584552e+12,
+     "p2p": 1.473900736094e+12,
+     "total": 5.313907320646e+12,
+     "percentage": 28,
+     "isp": "Numericable"
+   },
+   {
+     "cdn": 1.768474340281e+12,
+     "p2p": 3.328481767112e+12,
+     "total": 5.096956107393e+12,
+     "percentage": 66,
+     "isp": "UPC Polska"
+   },
+   {
+     "cdn": 1.996036217542e+12,
+     "p2p": 2.77720468323e+12,
+     "total": 4.773240900772e+12,
+     "percentage": 59,
+     "isp": "Rostelecom"
+   },
+   {
+     "cdn": 1.810002744996e+12,
+     "p2p": 2.948413674556e+12,
+     "total": 4.758416419552e+12,
+     "percentage": 62,
+     "isp": "Ziggo"
+   },
+   {
+     "cdn": 1.40232255867e+12,
+     "p2p": 2.987461856014e+12,
+     "total": 4.389784414684e+12,
+     "percentage": 69,
+     "isp": "Orange Polska"
+   },
+   {
+     "cdn": 1.623490498242e+12,
+     "p2p": 2.59193445668e+12,
+     "total": 4.215424954922e+12,
+     "percentage": 62,
+     "isp": "KPN"
+   },
+   {
+     "cdn": 1.604827450768e+12,
+     "p2p": 2.496080290077e+12,
+     "total": 4.100907740845e+12,
+     "percentage": 61,
+     "isp": "UPC Magyarorszag"
+   },
+   {
+     "cdn": 1.208289585804e+12,
+     "p2p": 2.802054897421e+12,
+     "total": 4.010344483225e+12,
+     "percentage": 70,
+     "isp": "Invitech Megoldasok Zrt."
+   },
+   {
+     "cdn": 2.235691002842e+12,
+     "p2p": 1.624362680539e+12,
+     "total": 3.860053683381e+12,
+     "percentage": 43,
+     "isp": "Telekom Austria"
+   },
+   {
+     "cdn": 1.466303341276e+12,
+     "p2p": 2.331634977106e+12,
+     "total": 3.797938318382e+12,
+     "percentage": 62,
+     "isp": "Magyar Telekom"
+   },
+   {
+     "cdn": 1.381198738175e+12,
+     "p2p": 2.371822437988e+12,
+     "total": 3.753021176163e+12,
+     "percentage": 64,
+     "isp": "UPC Ceska Republica"
+   },
+   {
+     "cdn": 1.329218677657e+12,
+     "p2p": 2.365394500257e+12,
+     "total": 3.694613177914e+12,
+     "percentage": 65,
+     "isp": "UNINETT AS"
+   },
+   {
+     "cdn": 2.077943146043e+12,
+     "p2p": 1.599139919045e+12,
+     "total": 3.677083065088e+12,
+     "percentage": 44,
+     "isp": "Sky Broadband"
+   },
+   {
+     "cdn": 2.031894234516e+12,
+     "p2p": 1.573045497078e+12,
+     "total": 3.604939731594e+12,
+     "percentage": 44,
+     "isp": "Skynet Belgium"
+   },
+   {
+     "cdn": 9.8275612673e+11,
+     "p2p": 2.457036238755e+12,
+     "total": 3.439792365485e+12,
+     "percentage": 72,
+     "isp": "Bezeq International"
+   },
+   {
+     "cdn": 1.755748875783e+12,
+     "p2p": 1.577796406329e+12,
+     "total": 3.333545282112e+12,
+     "percentage": 48,
+     "isp": "Telefonica de Espana"
+   },
+   {
+     "cdn": 6.88896620505e+11,
+     "p2p": 2.33522165474e+12,
+     "total": 3.024118275245e+12,
+     "percentage": 78,
+     "isp": "NTE Bredband AS"
+   },
+   {
+     "cdn": 8.59706865014e+11,
+     "p2p": 2.154990489384e+12,
+     "total": 3.014697354398e+12,
+     "percentage": 72,
+     "isp": "O2 Czech Republic"
+   },
+   {
+     "cdn": 8.41562903311e+11,
+     "p2p": 2.045636954248e+12,
+     "total": 2.887199857559e+12,
+     "percentage": 71,
+     "isp": "ServeTheWorld AS"
+   },
+   {
+     "cdn": 1.612746702617e+12,
+     "p2p": 1.241128262703e+12,
+     "total": 2.85387496532e+12,
+     "percentage": 44,
+     "isp": "TalkTalk"
+   },
+   {
+     "cdn": 1.712486924766e+12,
+     "p2p": 1.129576606391e+12,
+     "total": 2.842063531157e+12,
+     "percentage": 40,
+     "isp": "UPC Austria"
+   },
+   {
+     "cdn": 9.11884494746e+11,
+     "p2p": 1.852104736896e+12,
+     "total": 2.763989231642e+12,
+     "percentage": 68,
+     "isp": "Bredband2 AB"
+   },
+   {
+     "cdn": 5.92127431955e+11,
+     "p2p": 2.144070591565e+12,
+     "total": 2.73619802352e+12,
+     "percentage": 79,
+     "isp": "Ficolo Oy"
+   },
+   {
+     "cdn": 2.246662790013e+12,
+     "p2p": 4.37188588351e+11,
+     "total": 2.683851378364e+12,
+     "percentage": 17,
+     "isp": "EWE-Tel GmbH"
+   },
+   {
+     "cdn": 8.84193651015e+11,
+     "p2p": 1.686548900803e+12,
+     "total": 2.570742551818e+12,
+     "percentage": 66,
+     "isp": "UPC Romania SRL"
+   },
+   {
+     "cdn": 1.375006401961e+12,
+     "p2p": 1.122413517804e+12,
+     "total": 2.497419919765e+12,
+     "percentage": 45,
+     "isp": "Vectra Broadband"
+   },
+   {
+     "cdn": 5.8019967531e+11,
+     "p2p": 1.904791267602e+12,
+     "total": 2.484990942912e+12,
+     "percentage": 77,
+     "isp": "Tarr Kft."
+   },
+   {
+     "cdn": 6.94485418746e+11,
+     "p2p": 1.636994739925e+12,
+     "total": 2.331480158671e+12,
+     "percentage": 71,
+     "isp": "Eidsiva Bredband AS"
+   },
+   {
+     "cdn": 1.197126619076e+12,
+     "p2p": 1.100181233001e+12,
+     "total": 2.297307852077e+12,
+     "percentage": 48,
+     "isp": "Xs4all Internet BV"
+   },
+   {
+     "cdn": 1.571746649975e+12,
+     "p2p": 7.00588267636e+11,
+     "total": 2.272334917611e+12,
+     "percentage": 31,
+     "isp": "NetCologne GmbH"
+   },
+   {
+     "cdn": 8.76210883072e+11,
+     "p2p": 1.28522213237e+12,
+     "total": 2.161433015442e+12,
+     "percentage": 60,
+     "isp": "DIGI Tavkozlesi es Szolgaltato Kft."
+   },
+   {
+     "cdn": 6.01341127865e+11,
+     "p2p": 1.526869420341e+12,
+     "total": 2.128210548206e+12,
+     "percentage": 72,
+     "isp": "Loqal"
+   },
+   {
+     "cdn": 8.37187615661e+11,
+     "p2p": 1.188831947176e+12,
+     "total": 2.026019562837e+12,
+     "percentage": 59,
+     "isp": "Telia Eesti AS"
+   },
+   {
+     "cdn": 8.5358042674e+11,
+     "p2p": 1.167463324615e+12,
+     "total": 2.021043751355e+12,
+     "percentage": 58,
+     "isp": "Telenor A/S"
+   },
+   {
+     "cdn": 6.22339191886e+11,
+     "p2p": 1.365502785739e+12,
+     "total": 1.987841977625e+12,
+     "percentage": 69,
+     "isp": "UPC Slovensko s.r.o"
+   },
+   {
+     "cdn": 7.45893056618e+11,
+     "p2p": 1.210319076384e+12,
+     "total": 1.956212133002e+12,
+     "percentage": 62,
+     "isp": "FIBIA P/S"
+   },
+   {
+     "cdn": 1.204288018932e+12,
+     "p2p": 7.22155227461e+11,
+     "total": 1.926443246393e+12,
+     "percentage": 38,
+     "isp": "Tiscali UK Limited"
+   },
+   {
+     "cdn": 5.82530010685e+11,
+     "p2p": 1.298381975129e+12,
+     "total": 1.880911985814e+12,
+     "percentage": 70,
+     "isp": "Lynet Internett AS"
+   },
+   {
+     "cdn": 3.50760994108e+11,
+     "p2p": 1.510933738343e+12,
+     "total": 1.861694732451e+12,
+     "percentage": 82,
+     "isp": "Telia Norge As"
+   },
+   {
+     "cdn": 1.305354606e+12,
+     "p2p": 4.94467694626e+11,
+     "total": 1.799822300626e+12,
+     "percentage": 28,
+     "isp": "Versatel Deutschland"
+   },
+   {
+     "cdn": 6.74560239863e+11,
+     "p2p": 1.104990921311e+12,
+     "total": 1.779551161174e+12,
+     "percentage": 63,
+     "isp": "Telekom Romania Communication S.A"
+   },
+   {
+     "cdn": 6.84542909979e+11,
+     "p2p": 1.071139541377e+12,
+     "total": 1.755682451356e+12,
+     "percentage": 62,
+     "isp": "ZeelandNet BV"
+   },
+   {
+     "cdn": 6.37286352066e+11,
+     "p2p": 1.077186080709e+12,
+     "total": 1.714472432775e+12,
+     "percentage": 63,
+     "isp": "Lounea Palvelut Oy"
+   },
+   {
+     "cdn": 4.62664023144e+11,
+     "p2p": 1.235757806132e+12,
+     "total": 1.698421829276e+12,
+     "percentage": 73,
+     "isp": "013 NetVision"
+   },
+   {
+     "cdn": 5.65264598987e+11,
+     "p2p": 1.097082426501e+12,
+     "total": 1.662347025488e+12,
+     "percentage": 66,
+     "isp": "OTEnet S.A."
+   },
+   {
+     "cdn": 1.130706863033e+12,
+     "p2p": 4.98330443485e+11,
+     "total": 1.629037306518e+12,
+     "percentage": 31,
+     "isp": "M-net"
+   },
+   {
+     "cdn": 7.43795176916e+11,
+     "p2p": 8.78901113258e+11,
+     "total": 1.622696290174e+12,
+     "percentage": 55,
+     "isp": "Turk Telekom"
+   },
+   {
+     "cdn": 6.92742925721e+11,
+     "p2p": 9.14003357596e+11,
+     "total": 1.606746283317e+12,
+     "percentage": 57,
+     "isp": "Bluewin"
+   },
+   {
+     "cdn": 3.82222060144e+11,
+     "p2p": 1.213490521358e+12,
+     "total": 1.595712581502e+12,
+     "percentage": 77,
+     "isp": "Nordmore Energiverk AS"
+   },
+   {
+     "cdn": 4.68800643996e+11,
+     "p2p": 1.086632631813e+12,
+     "total": 1.555433275809e+12,
+     "percentage": 70,
+     "isp": "AllTele Broadband"
+   },
+   {
+     "cdn": 8.53245036062e+11,
+     "p2p": 6.92340410041e+11,
+     "total": 1.545585446103e+12,
+     "percentage": 45,
+     "isp": "Elisa Oyj Mobile"
+   },
+   {
+     "cdn": 6.45656094325e+11,
+     "p2p": 8.85664526546e+11,
+     "total": 1.531320620871e+12,
+     "percentage": 58,
+     "isp": "Telecom3 Sverige AB"
+   },
+   {
+     "cdn": 5.91222850633e+11,
+     "p2p": 9.11801137939e+11,
+     "total": 1.503023988572e+12,
+     "percentage": 61,
+     "isp": "Telenor AB"
+   },
+   {
+     "cdn": 5.36046931565e+11,
+     "p2p": 9.37873039968e+11,
+     "total": 1.473919971533e+12,
+     "percentage": 64,
+     "isp": "Hrvatski Telekom fixed broadband"
+   },
+   {
+     "cdn": 6.59381056477e+11,
+     "p2p": 7.90207247239e+11,
+     "total": 1.449588303716e+12,
+     "percentage": 55,
+     "isp": "OJSC Comcor"
+   },
+   {
+     "cdn": 1.091548961574e+12,
+     "p2p": 3.4692878056e+11,
+     "total": 1.438477742134e+12,
+     "percentage": 25,
+     "isp": "Sfr Collectivites SA"
+   },
+   {
+     "cdn": 3.56549579779e+11,
+     "p2p": 1.065570832882e+12,
+     "total": 1.422120412661e+12,
+     "percentage": 75,
+     "isp": "Enivest AS"
+   },
+   {
+     "cdn": 5.35912548436e+11,
+     "p2p": 8.57709771099e+11,
+     "total": 1.393622319535e+12,
+     "percentage": 62,
+     "isp": "Slovak Telecom"
+   },
+   {
+     "cdn": 1.003888203726e+12,
+     "p2p": 3.73646752494e+11,
+     "total": 1.37753495622e+12,
+     "percentage": 28,
+     "isp": "QSC AG"
+   },
+   {
+     "cdn": 8.32162724079e+11,
+     "p2p": 5.30029484389e+11,
+     "total": 1.362192208468e+12,
+     "percentage": 39,
+     "isp": "UPC Schweiz GmbH"
+   },
+   {
+     "cdn": 5.24057014855e+11,
+     "p2p": 8.372297655e+11,
+     "total": 1.361286780355e+12,
+     "percentage": 62,
+     "isp": "Beltelecom"
+   },
+   {
+     "cdn": 5.39871303737e+11,
+     "p2p": 8.17042311261e+11,
+     "total": 1.356913614998e+12,
+     "percentage": 61,
+     "isp": "OJS Moscow city telephone network"
+   },
+   {
+     "cdn": 5.34614488022e+11,
+     "p2p": 7.74785229515e+11,
+     "total": 1.309399717537e+12,
+     "percentage": 60,
+     "isp": "Hi3G Access AB"
+   },
+   {
+     "cdn": 5.07798168983e+11,
+     "p2p": 7.62005826514e+11,
+     "total": 1.269803995497e+12,
+     "percentage": 61,
+     "isp": "Stofa+A/S"
+   },
+   {
+     "cdn": 7.92093239465e+11,
+     "p2p": 4.69910081233e+11,
+     "total": 1.262003320698e+12,
+     "percentage": 38,
+     "isp": "COLT Technology Services Group Limited"
+   },
+   {
+     "cdn": 4.6183538206e+11,
+     "p2p": 7.98366894697e+11,
+     "total": 1.260202276757e+12,
+     "percentage": 64,
+     "isp": "JSC ER-Telecom Holding"
+   },
+   {
+     "cdn": 1.045418656544e+12,
+     "p2p": 2.10899311911e+11,
+     "total": 1.256317968455e+12,
+     "percentage": 17,
+     "isp": "Choopa, LLC"
+   },
+   {
+     "cdn": 3.65809544245e+11,
+     "p2p": 8.7426926856e+11,
+     "total": 1.240078812805e+12,
+     "percentage": 71,
+     "isp": "Ownit AB"
+   },
+   {
+     "cdn": 3.80660591129e+11,
+     "p2p": 8.43702876343e+11,
+     "total": 1.224363467472e+12,
+     "percentage": 69,
+     "isp": "MTS PJSC"
+   },
+   {
+     "cdn": 3.59808708949e+11,
+     "p2p": 8.53009696608e+11,
+     "total": 1.212818405557e+12,
+     "percentage": 71,
+     "isp": "Volia"
+   },
+   {
+     "cdn": 3.04074923825e+11,
+     "p2p": 8.88063391025e+11,
+     "total": 1.19213831485e+12,
+     "percentage": 75,
+     "isp": "Tampereen Puhelin Oy"
+   },
+   {
+     "cdn": 8.29573459605e+11,
+     "p2p": 3.57251601381e+11,
+     "total": 1.186825060986e+12,
+     "percentage": 31,
+     "isp": "Vodafone Spain"
+   },
+   {
+     "cdn": 7.53402931456e+11,
+     "p2p": 4.02637222033e+11,
+     "total": 1.156040153489e+12,
+     "percentage": 35,
+     "isp": "Tele Columbus AG"
+   },
+   {
+     "cdn": 6.0059658688e+11,
+     "p2p": 5.36739781711e+11,
+     "total": 1.137336368591e+12,
+     "percentage": 48,
+     "isp": "Resilans AB"
+   },
+   {
+     "cdn": 7.28752428765e+11,
+     "p2p": 3.98110987649e+11,
+     "total": 1.126863416414e+12,
+     "percentage": 36,
+     "isp": "Digital Ocean"
+   },
+   {
+     "cdn": 5.44135116253e+11,
+     "p2p": 5.72533115991e+11,
+     "total": 1.116668232244e+12,
+     "percentage": 52,
+     "isp": "Telenet N.V."
+   },
+   {
+     "cdn": 3.97618060386e+11,
+     "p2p": 7.16964322545e+11,
+     "total": 1.114582382931e+12,
+     "percentage": 65,
+     "isp": "Netia SA"
+   },
+   {
+     "cdn": 3.57266919332e+11,
+     "p2p": 7.55075098446e+11,
+     "total": 1.112342017778e+12,
+     "percentage": 68,
+     "isp": "Kaisanet Oy"
+   },
+   {
+     "cdn": 5.26249610577e+11,
+     "p2p": 5.39575690416e+11,
+     "total": 1.065825300993e+12,
+     "percentage": 51,
+     "isp": "EnergiMidt Fiberbredband A/S"
+   },
+   {
+     "cdn": 6.96759546732e+11,
+     "p2p": 3.57426978393e+11,
+     "total": 1.054186525125e+12,
+     "percentage": 34,
+     "isp": "EE High Speed Internet"
+   },
+   {
+     "cdn": 4.06672514656e+11,
+     "p2p": 6.3078541268e+11,
+     "total": 1.037457927336e+12,
+     "percentage": 61,
+     "isp": "TDC AS"
+   },
+   {
+     "cdn": 4.18459850563e+11,
+     "p2p": 6.09223751117e+11,
+     "total": 1.02768360168e+12,
+     "percentage": 60,
+     "isp": "Telia Lietuva, AB"
+   },
+   {
+     "cdn": 3.92296328452e+11,
+     "p2p": 6.32288784439e+11,
+     "total": 1.024585112891e+12,
+     "percentage": 62,
+     "isp": "SIA Lattelecom"
+   },
+   {
+     "cdn": 4.36166049833e+11,
+     "p2p": 5.5117903348e+11,
+     "total": 9.87345083313e+11,
+     "percentage": 56,
+     "isp": "Beeline Home"
+   },
+   {
+     "cdn": 4.48538547175e+11,
+     "p2p": 5.31814291503e+11,
+     "total": 9.80352838678e+11,
+     "percentage": 55,
+     "isp": "Aura Fiber OE A/S"
+   },
+   {
+     "cdn": 6.09473985497e+11,
+     "p2p": 3.58370353203e+11,
+     "total": 9.678443387e+11,
+     "percentage": 38,
+     "isp": "Vodafone Ono"
+   },
+   {
+     "cdn": 3.01433275447e+11,
+     "p2p": 6.22125078022e+11,
+     "total": 9.23558353469e+11,
+     "percentage": 68,
+     "isp": "Multimedia Polska S.A."
+   },
+   {
+     "cdn": 4.47663396669e+11,
+     "p2p": 4.36547648803e+11,
+     "total": 8.84211045472e+11,
+     "percentage": 50,
+     "isp": "CAIW Diensten B.V."
+   },
+   {
+     "cdn": 3.2567035851e+11,
+     "p2p": 5.53523110945e+11,
+     "total": 8.79193469455e+11,
+     "percentage": 63,
+     "isp": "Stofa"
+   },
+   {
+     "cdn": 4.65308582835e+11,
+     "p2p": 3.87010243126e+11,
+     "total": 8.52318825961e+11,
+     "percentage": 46,
+     "isp": "CSC - Tieteen tietotekniikan keskus Oy"
+   },
+   {
+     "cdn": 4.574365356e+11,
+     "p2p": 3.82260333123e+11,
+     "total": 8.39696868723e+11,
+     "percentage": 46,
+     "isp": "Sunrise Communications AG"
+   },
+   {
+     "cdn": 4.45060211598e+11,
+     "p2p": 3.91290211356e+11,
+     "total": 8.36350422954e+11,
+     "percentage": 47,
+     "isp": "Telecom Italia"
+   },
+   {
+     "cdn": 3.59991853198e+11,
+     "p2p": 4.75890560507e+11,
+     "total": 8.35882413705e+11,
+     "percentage": 57,
+     "isp": "VimpelCom"
+   },
+   {
+     "cdn": 4.42959151213e+11,
+     "p2p": 3.82094740726e+11,
+     "total": 8.25053891939e+11,
+     "percentage": 47,
+     "isp": "Fastweb"
+   },
+   {
+     "cdn": 5.69893758163e+11,
+     "p2p": 2.54836744833e+11,
+     "total": 8.24730502996e+11,
+     "percentage": 31,
+     "isp": "Orange Espagne S.A.U."
+   },
+   {
+     "cdn": 5.84377251034e+11,
+     "p2p": 2.35584555855e+11,
+     "total": 8.19961806889e+11,
+     "percentage": 29,
+     "isp": "Privax Ltd."
+   },
+   {
+     "cdn": 5.14632587112e+11,
+     "p2p": 3.05293103092e+11,
+     "total": 8.19925690204e+11,
+     "percentage": 38,
+     "isp": "Hutchison Drei Austria GmbH"
+   },
+   {
+     "cdn": 1.99288645138e+11,
+     "p2p": 6.18576714015e+11,
+     "total": 8.17865359153e+11,
+     "percentage": 76,
+     "isp": "ComX Networks A/S"
+   },
+   {
+     "cdn": 2.65067459919e+11,
+     "p2p": 5.32932415832e+11,
+     "total": 7.97999875751e+11,
+     "percentage": 67,
+     "isp": "Norwegian University of Science and Technology"
+   },
+   {
+     "cdn": 4.91693231765e+11,
+     "p2p": 2.97474083716e+11,
+     "total": 7.89167315481e+11,
+     "percentage": 38,
+     "isp": "Kabelfernsehen Muenchen ServiCenter GmbH \u0026 Co.KG"
+   },
+   {
+     "cdn": 2.28432993129e+11,
+     "p2p": 5.52687138448e+11,
+     "total": 7.81120131577e+11,
+     "percentage": 71,
+     "isp": "Portlane AB"
+   },
+   {
+     "cdn": 4.19689248584e+11,
+     "p2p": 3.47990591925e+11,
+     "total": 7.67679840509e+11,
+     "percentage": 46,
+     "isp": "Wind Hellas Telecommunications SA"
+   },
+   {
+     "cdn": 3.0635588351e+11,
+     "p2p": 4.60605880189e+11,
+     "total": 7.66961763699e+11,
+     "percentage": 61,
+     "isp": "AltusHost B.V."
+   },
+   {
+     "cdn": 2.30483488681e+11,
+     "p2p": 5.21804929951e+11,
+     "total": 7.52288418632e+11,
+     "percentage": 70,
+     "isp": "University of Tromso"
+   },
+   {
+     "cdn": 3.86720083582e+11,
+     "p2p": 3.62114289625e+11,
+     "total": 7.48834373207e+11,
+     "percentage": 49,
+     "isp": "Telenet BVBA"
+   },
+   {
+     "cdn": 3.62280555983e+11,
+     "p2p": 3.75844863676e+11,
+     "total": 7.38125419659e+11,
+     "percentage": 51,
+     "isp": "Siminn"
+   },
+   {
+     "cdn": 5.39276602197e+11,
+     "p2p": 1.96392050073e+11,
+     "total": 7.3566865227e+11,
+     "percentage": 27,
+     "isp": "POST Luxembourg"
+   },
+   {
+     "cdn": 3.20967825783e+11,
+     "p2p": 4.14649186344e+11,
+     "total": 7.35617012127e+11,
+     "percentage": 57,
+     "isp": "Nebula Oy"
+   },
+   {
+     "cdn": 2.22688106995e+11,
+     "p2p": 5.06444443082e+11,
+     "total": 7.29132550077e+11,
+     "percentage": 70,
+     "isp": "Telefonia Dialog sp.z.o.o."
+   },
+   {
+     "cdn": 3.47067833391e+11,
+     "p2p": 3.81391855115e+11,
+     "total": 7.28459688506e+11,
+     "percentage": 53,
+     "isp": "T-Mobile Czech Republic"
+   },
+   {
+     "cdn": 2.2169176656e+11,
+     "p2p": 5.00331524805e+11,
+     "total": 7.22023291365e+11,
+     "percentage": 70,
+     "isp": "Polkomtel Sp. z o.o."
+   },
+   {
+     "cdn": 1.35387092253e+11,
+     "p2p": 5.85378522063e+11,
+     "total": 7.20765614316e+11,
+     "percentage": 82,
+     "isp": "HOTnet"
+   },
+   {
+     "cdn": 3.73341390499e+11,
+     "p2p": 3.46761757499e+11,
+     "total": 7.20103147998e+11,
+     "percentage": 49,
+     "isp": "Toya sp.z.o.o"
+   },
+   {
+     "cdn": 4.68200454756e+11,
+     "p2p": 2.47460598098e+11,
+     "total": 7.15661052854e+11,
+     "percentage": 35,
+     "isp": "PlusNet Technologies Ltd"
+   },
+   {
+     "cdn": 4.75581553663e+11,
+     "p2p": 2.32450722635e+11,
+     "total": 7.08032276298e+11,
+     "percentage": 33,
+     "isp": "Primacom Berlin GmbH"
+   },
+   {
+     "cdn": 3.09901445165e+11,
+     "p2p": 3.88694632486e+11,
+     "total": 6.98596077651e+11,
+     "percentage": 56,
+     "isp": "INEA S.A."
+   },
+   {
+     "cdn": 2.54798868841e+11,
+     "p2p": 4.38190765585e+11,
+     "total": 6.92989634426e+11,
+     "percentage": 64,
+     "isp": "Tele2 Mobile"
+   },
+   {
+     "cdn": 2.43413183359e+11,
+     "p2p": 4.44941303684e+11,
+     "total": 6.88354487043e+11,
+     "percentage": 65,
+     "isp": "T-mobile Polska"
+   },
+   {
+     "cdn": 1.83875917584e+11,
+     "p2p": 5.01054955417e+11,
+     "total": 6.84930873001e+11,
+     "percentage": 74,
+     "isp": "Stofa A/S"
+   },
+   {
+     "cdn": 4.62161556683e+11,
+     "p2p": 2.11488417221e+11,
+     "total": 6.73649973904e+11,
+     "percentage": 32,
+     "isp": "2com"
+   },
+   {
+     "cdn": 2.70321141062e+11,
+     "p2p": 4.0205876931e+11,
+     "total": 6.72379910372e+11,
+     "percentage": 60,
+     "isp": "Triolan"
+   },
+   {
+     "cdn": 3.26496046154e+11,
+     "p2p": 3.44989163931e+11,
+     "total": 6.71485210085e+11,
+     "percentage": 52,
+     "isp": "FORTHnet SA"
+   },
+   {
+     "cdn": 4.79428465601e+11,
+     "p2p": 1.86204162955e+11,
+     "total": 6.65632628556e+11,
+     "percentage": 28,
+     "isp": "wilhelm.tel"
+   },
+   {
+     "cdn": 2.29669104996e+11,
+     "p2p": 4.22216004797e+11,
+     "total": 6.51885109793e+11,
+     "percentage": 65,
+     "isp": "YouSee"
+   },
+   {
+     "cdn": 3.4825195158e+11,
+     "p2p": 3.01753979616e+11,
+     "total": 6.50005931196e+11,
+     "percentage": 47,
+     "isp": "Meo - Servicos De Comunicacoes E Multimedia, S.A."
+   },
+   {
+     "cdn": 4.84987377752e+11,
+     "p2p": 1.61362912382e+11,
+     "total": 6.46350290134e+11,
+     "percentage": 25,
+     "isp": "Orange Espana"
+   },
+   {
+     "cdn": 1.75524670951e+11,
+     "p2p": 4.7044756201e+11,
+     "total": 6.45972232961e+11,
+     "percentage": 73,
+     "isp": "BKK Fiber"
+   },
+   {
+     "cdn": 1.3171587984e+11,
+     "p2p": 5.0363336262e+11,
+     "total": 6.3534924246e+11,
+     "percentage": 80,
+     "isp": "FSP Net"
+   },
+   {
+     "cdn": 2.07171015719e+11,
+     "p2p": 4.15925285498e+11,
+     "total": 6.23096301217e+11,
+     "percentage": 67,
+     "isp": "Telenor Sverige AB"
+   },
+   {
+     "cdn": 3.19285491686e+11,
+     "p2p": 3.00669259475e+11,
+     "total": 6.19954751161e+11,
+     "percentage": 49,
+     "isp": "Fjarskipti ehf"
+   },
+   {
+     "cdn": 1.2598764614e+11,
+     "p2p": 4.88607066834e+11,
+     "total": 6.14594712974e+11,
+     "percentage": 80,
+     "isp": "Tafjord Marked AS"
+   },
+   {
+     "cdn": 4.29175139039e+11,
+     "p2p": 1.85172118516e+11,
+     "total": 6.14347257555e+11,
+     "percentage": 31,
+     "isp": "Iomart Hosting Limited"
+   },
+   {
+     "cdn": 1.88110072428e+11,
+     "p2p": 4.22726781214e+11,
+     "total": 6.10836853642e+11,
+     "percentage": 70,
+     "isp": "Ratt Internet Kapacitet i Sverige AB"
+   },
+   {
+     "cdn": 1.98285029608e+11,
+     "p2p": 4.08983607145e+11,
+     "total": 6.07268636753e+11,
+     "percentage": 68,
+     "isp": "PowerTech Information Systems AS"
+   },
+   {
+     "cdn": 3.9888346655e+11,
+     "p2p": 2.03499807578e+11,
+     "total": 6.02383274128e+11,
+     "percentage": 34,
+     "isp": "htp GmbH"
+   },
+   {
+     "cdn": 2.63694079562e+11,
+     "p2p": 3.38199713168e+11,
+     "total": 6.0189379273e+11,
+     "percentage": 57,
+     "isp": "Vodafone-panafon Hellenic Telecommunications Compa"
+   },
+   {
+     "cdn": 4.13677494482e+11,
+     "p2p": 1.82749970008e+11,
+     "total": 5.9642746449e+11,
+     "percentage": 31,
+     "isp": "Redstation Limited"
+   },
+   {
+     "cdn": 2.52518795347e+11,
+     "p2p": 3.37277460541e+11,
+     "total": 5.89796255888e+11,
+     "percentage": 58,
+     "isp": "012 Smile"
+   },
+   {
+     "cdn": 9.117205923e+10,
+     "p2p": 4.90524845529e+11,
+     "total": 5.81696904759e+11,
+     "percentage": 85,
+     "isp": "Stayon AS"
+   },
+   {
+     "cdn": 6.2253465058e+10,
+     "p2p": 5.11396198911e+11,
+     "total": 5.73649663969e+11,
+     "percentage": 90,
+     "isp": "Bitpro"
+   },
+   {
+     "cdn": 4.2209700206e+11,
+     "p2p": 1.51460864104e+11,
+     "total": 5.73557866164e+11,
+     "percentage": 27,
+     "isp": "M247 Ltd"
+   },
+   {
+     "cdn": 1.48109756872e+11,
+     "p2p": 4.20967625652e+11,
+     "total": 5.69077382524e+11,
+     "percentage": 74,
+     "isp": "MPY Palvelut Oyj"
+   },
+   {
+     "cdn": 1.37194678296e+11,
+     "p2p": 4.30559639311e+11,
+     "total": 5.67754317607e+11,
+     "percentage": 76,
+     "isp": "Tussa Ikt As"
+   },
+   {
+     "cdn": 1.12600953687e+11,
+     "p2p": 4.49630689339e+11,
+     "total": 5.62231643026e+11,
+     "percentage": 80,
+     "isp": "Sognenett AS"
+   },
+   {
+     "cdn": 1.14586253793e+11,
+     "p2p": 4.40356262605e+11,
+     "total": 5.54942516398e+11,
+     "percentage": 80,
+     "isp": "Tafjord Mimer AS"
+   },
+   {
+     "cdn": 2.13827136242e+11,
+     "p2p": 3.34968543839e+11,
+     "total": 5.48795680081e+11,
+     "percentage": 62,
+     "isp": "Mtel"
+   },
+   {
+     "cdn": 3.60400543475e+11,
+     "p2p": 1.86785165927e+11,
+     "total": 5.47185709402e+11,
+     "percentage": 35,
+     "isp": "IT-Lauget Parknet"
+   },
+   {
+     "cdn": 2.47164355462e+11,
+     "p2p": 2.98803742977e+11,
+     "total": 5.45968098439e+11,
+     "percentage": 55,
+     "isp": "Play"
+   },
+   {
+     "cdn": 2.16905175952e+11,
+     "p2p": 3.26423490765e+11,
+     "total": 5.43328666717e+11,
+     "percentage": 61,
+     "isp": "Altibox Danmark AS"
+   },
+   {
+     "cdn": 3.09414078648e+11,
+     "p2p": 2.29340244234e+11,
+     "total": 5.38754322882e+11,
+     "percentage": 43,
+     "isp": "Orange Mobile"
+   },
+   {
+     "cdn": 1.93396007602e+11,
+     "p2p": 3.41824153004e+11,
+     "total": 5.35220160606e+11,
+     "percentage": 64,
+     "isp": "Signal Bredband AS"
+   },
+   {
+     "cdn": 4.22671198375e+11,
+     "p2p": 1.0808992556e+11,
+     "total": 5.30761123935e+11,
+     "percentage": 21,
+     "isp": "Bouygues Mobile"
+   },
+   {
+     "cdn": 3.67268087302e+11,
+     "p2p": 1.63442888991e+11,
+     "total": 5.30710976293e+11,
+     "percentage": 31,
+     "isp": "T-Mobile Austria GmbH"
+   },
+   {
+     "cdn": 1.88259859902e+11,
+     "p2p": 3.38279113117e+11,
+     "total": 5.26538973019e+11,
+     "percentage": 65,
+     "isp": "Kyivstar PJSC"
+   },
+   {
+     "cdn": 4.6647832662e+11,
+     "p2p": 5.8526182986e+10,
+     "total": 5.25004509606e+11,
+     "percentage": 12,
+     "isp": "Free Mobile SAS"
+   },
+   {
+     "cdn": 3.65235070651e+11,
+     "p2p": 1.50652434802e+11,
+     "total": 5.15887505453e+11,
+     "percentage": 30,
+     "isp": "Scarlet Belgium NV"
+   },
+   {
+     "cdn": 1.28392115873e+11,
+     "p2p": 3.85041443141e+11,
+     "total": 5.13433559014e+11,
+     "percentage": 75,
+     "isp": "Net By Net Holding LLC"
+   },
+   {
+     "cdn": 2.94979526445e+11,
+     "p2p": 2.09914613383e+11,
+     "total": 5.04894139828e+11,
+     "percentage": 42,
+     "isp": "Hiper A/S"
+   },
+   {
+     "cdn": 3.02361670456e+11,
+     "p2p": 1.9883909826e+11,
+     "total": 5.01200768716e+11,
+     "percentage": 40,
+     "isp": "Virgin Media Ireland"
+   },
+   {
+     "cdn": 4.76441035898e+11,
+     "p2p": 2.3374285871e+10,
+     "total": 4.99815321769e+11,
+     "percentage": 5,
+     "isp": "Renater"
+   },
+   {
+     "cdn": 4.41145905191e+11,
+     "p2p": 5.5843095668e+10,
+     "total": 4.96989000859e+11,
+     "percentage": 12,
+     "isp": "Envia Tel GmbH"
+   },
+   {
+     "cdn": 2.21534848968e+11,
+     "p2p": 2.62055462622e+11,
+     "total": 4.8359031159e+11,
+     "percentage": 55,
+     "isp": "Netplaza Oy"
+   },
+   {
+     "cdn": 1.98343739594e+11,
+     "p2p": 2.84312330975e+11,
+     "total": 4.82656070569e+11,
+     "percentage": 59,
+     "isp": "IP-Only Networks AB"
+   },
+   {
+     "cdn": 4.0205869844e+11,
+     "p2p": 7.2680930653e+10,
+     "total": 4.74739629093e+11,
+     "percentage": 16,
+     "isp": "NetCom BW GmbH"
+   },
+   {
+     "cdn": 2.11941458866e+11,
+     "p2p": 2.60714395819e+11,
+     "total": 4.72655854685e+11,
+     "percentage": 56,
+     "isp": "LIWEST Kabelfernsehen Errichtungs- und Betriebs Ge"
+   },
+   {
+     "cdn": 5.1618121545e+10,
+     "p2p": 4.15080893244e+11,
+     "total": 4.66699014789e+11,
+     "percentage": 89,
+     "isp": "Blizoo Media and Broadband"
+   },
+   {
+     "cdn": 4.44515087662e+11,
+     "p2p": 2.094961243e+10,
+     "total": 4.65464700092e+11,
+     "percentage": 5,
+     "isp": "Zscaler"
+   },
+   {
+     "cdn": 1.15394575098e+11,
+     "p2p": 3.48777454338e+11,
+     "total": 4.64172029436e+11,
+     "percentage": 76,
+     "isp": "Blue Lake Communications Oy"
+   },
+   {
+     "cdn": 3.66958362063e+11,
+     "p2p": 9.5091471632e+10,
+     "total": 4.62049833695e+11,
+     "percentage": 21,
+     "isp": "PureVPN"
+   },
+   {
+     "cdn": 6.8948958502e+10,
+     "p2p": 3.91300312966e+11,
+     "total": 4.60249271468e+11,
+     "percentage": 86,
+     "isp": "Melita plc"
+   },
+   {
+     "cdn": 3.13805337897e+11,
+     "p2p": 1.39892675579e+11,
+     "total": 4.53698013476e+11,
+     "percentage": 31,
+     "isp": "Maximum-Net LLC"
+   },
+   {
+     "cdn": 3.16379306759e+11,
+     "p2p": 1.29756381807e+11,
+     "total": 4.46135688566e+11,
+     "percentage": 30,
+     "isp": "Institutul National de Cercetare-Dezvoltare in inf"
+   },
+   {
+     "cdn": 2.27984934679e+11,
+     "p2p": 2.13888924542e+11,
+     "total": 4.41873859221e+11,
+     "percentage": 49,
+     "isp": "MDlink online service center GmbH"
+   },
+   {
+     "cdn": 1.77638403154e+11,
+     "p2p": 2.61405812802e+11,
+     "total": 4.39044215956e+11,
+     "percentage": 60,
+     "isp": "Tyfon"
+   },
+   {
+     "cdn": 2.31646237837e+11,
+     "p2p": 2.04428952128e+11,
+     "total": 4.36075189965e+11,
+     "percentage": 47,
+     "isp": "YHC International BV"
+   },
+   {
+     "cdn": 1.4317106406e+11,
+     "p2p": 2.92478652384e+11,
+     "total": 4.35649716444e+11,
+     "percentage": 68,
+     "isp": "T-Mobile Thuis BV"
+   },
+   {
+     "cdn": 3.03804395473e+11,
+     "p2p": 1.20995007174e+11,
+     "total": 4.24799402647e+11,
+     "percentage": 29,
+     "isp": "Areti Internet Ltd"
+   },
+   {
+     "cdn": 1.93422066132e+11,
+     "p2p": 2.29972143476e+11,
+     "total": 4.23394209608e+11,
+     "percentage": 55,
+     "isp": "PJSC MegaFon"
+   },
+   {
+     "cdn": 3.21328312577e+11,
+     "p2p": 9.964371394e+10,
+     "total": 4.20972026517e+11,
+     "percentage": 24,
+     "isp": "Interoute Communications Limited"
+   },
+   {
+     "cdn": 3.54806747815e+11,
+     "p2p": 6.5124338217e+10,
+     "total": 4.19931086032e+11,
+     "percentage": 16,
+     "isp": "Reunicable SAS"
+   },
+   {
+     "cdn": 2.40282569451e+11,
+     "p2p": 1.79339312674e+11,
+     "total": 4.19621882125e+11,
+     "percentage": 43,
+     "isp": "NIIFI (Nemzeti Informacios Infrastruktura Fejleszt"
+   },
+   {
+     "cdn": 1.11155682706e+11,
+     "p2p": 3.07997106568e+11,
+     "total": 4.19152789274e+11,
+     "percentage": 74,
+     "isp": "ARTOS a.s."
+   },
+   {
+     "cdn": 2.56285130967e+11,
+     "p2p": 1.6112045744e+11,
+     "total": 4.17405588407e+11,
+     "percentage": 39,
+     "isp": "CESNET z.s.p.o."
+   },
+   {
+     "cdn": 1.94010021941e+11,
+     "p2p": 2.1910068907e+11,
+     "total": 4.13110711011e+11,
+     "percentage": 54,
+     "isp": "Tele2 Nederland"
+   },
+   {
+     "cdn": 1.10634713097e+11,
+     "p2p": 2.93902240796e+11,
+     "total": 4.04536953893e+11,
+     "percentage": 73,
+     "isp": "Netett Sverige AB"
+   },
+   {
+     "cdn": 1.05551046349e+11,
+     "p2p": 2.95831643564e+11,
+     "total": 4.01382689913e+11,
+     "percentage": 74,
+     "isp": "Trollfjord Bredband AS"
+   },
+   {
+     "cdn": 3.14707624157e+11,
+     "p2p": 8.6534128121e+10,
+     "total": 4.01241752278e+11,
+     "percentage": 22,
+     "isp": "Secure Internet LLC"
+   },
+   {
+     "cdn": 1.76026646255e+11,
+     "p2p": 2.18904606115e+11,
+     "total": 3.9493125237e+11,
+     "percentage": 56,
+     "isp": "Orange Swiatlowod"
+   },
+   {
+     "cdn": 3.27557039778e+11,
+     "p2p": 6.6731005544e+10,
+     "total": 3.94288045322e+11,
+     "percentage": 17,
+     "isp": "Euskaltel S.A."
+   },
+   {
+     "cdn": 2.4853556062e+11,
+     "p2p": 1.45132280202e+11,
+     "total": 3.93667840822e+11,
+     "percentage": 37,
+     "isp": "INFONET Services Corporation"
+   },
+   {
+     "cdn": 2.02272217213e+11,
+     "p2p": 1.91261574993e+11,
+     "total": 3.93533792206e+11,
+     "percentage": 49,
+     "isp": "Starnet s.r.o."
+   },
+   {
+     "cdn": 1.50783589712e+11,
+     "p2p": 2.42676700941e+11,
+     "total": 3.93460290653e+11,
+     "percentage": 62,
+     "isp": "Zen Systems A/S"
+   },
+   {
+     "cdn": 2.04660166573e+11,
+     "p2p": 1.88283597901e+11,
+     "total": 3.92943764474e+11,
+     "percentage": 48,
+     "isp": "Norsk Helsenett SF"
+   },
+   {
+     "cdn": 2.23412671082e+11,
+     "p2p": 1.68245397464e+11,
+     "total": 3.91658068546e+11,
+     "percentage": 43,
+     "isp": "Fe alternativnaya Zifrovaya Set"
+   },
+   {
+     "cdn": 3.90746556796e+11,
+     "p2p": 0,
+     "total": 3.90746556796e+11,
+     "percentage": 0,
+     "isp": "Commerzbank Aktiengesellschaft"
+   },
+   {
+     "cdn": 2.40546766299e+11,
+     "p2p": 1.49178441743e+11,
+     "total": 3.89725208042e+11,
+     "percentage": 39,
+     "isp": "Vodafone Romania"
+   },
+   {
+     "cdn": 1.07081508794e+11,
+     "p2p": 2.8226384029e+11,
+     "total": 3.89345349084e+11,
+     "percentage": 73,
+     "isp": "GlobalConnect A/S"
+   },
+   {
+     "cdn": 5.7002396734e+10,
+     "p2p": 3.28315515464e+11,
+     "total": 3.85317912198e+11,
+     "percentage": 86,
+     "isp": "Eltele AS"
+   },
+   {
+     "cdn": 2.37767284752e+11,
+     "p2p": 1.43907883847e+11,
+     "total": 3.81675168599e+11,
+     "percentage": 38,
+     "isp": "Zen Internet Ltd"
+   },
+   {
+     "cdn": 7.7632706423e+10,
+     "p2p": 3.03784621467e+11,
+     "total": 3.8141732789e+11,
+     "percentage": 80,
+     "isp": "Euronet Communications B.V."
+   },
+   {
+     "cdn": 1.4720099522e+11,
+     "p2p": 2.33882311877e+11,
+     "total": 3.81083307097e+11,
+     "percentage": 62,
+     "isp": "Danmarks Tekniske Universitet"
+   },
+   {
+     "cdn": 1.13249948544e+11,
+     "p2p": 2.65486301615e+11,
+     "total": 3.78736250159e+11,
+     "percentage": 71,
+     "isp": "NordixDataAS"
+   },
+   {
+     "cdn": 1.87535674665e+11,
+     "p2p": 1.90783632531e+11,
+     "total": 3.78319307196e+11,
+     "percentage": 51,
+     "isp": "Eircom"
+   },
+   {
+     "cdn": 2.05993043748e+11,
+     "p2p": 1.70854480972e+11,
+     "total": 3.7684752472e+11,
+     "percentage": 46,
+     "isp": "Digital Cable Systems SA"
+   },
+   {
+     "cdn": 3.7504194744e+11,
+     "p2p": 0,
+     "total": 3.7504194744e+11,
+     "percentage": 0,
+     "isp": "Dr. Ing. h.c. F. Porsche AG"
+   },
+   {
+     "cdn": 1.33890246808e+11,
+     "p2p": 2.40764552769e+11,
+     "total": 3.74654799577e+11,
+     "percentage": 65,
+     "isp": "Serbia BroadBand-Srpske Kablovske mreze d.o.o."
+   },
+   {
+     "cdn": 7.1377106303e+10,
+     "p2p": 2.93119031877e+11,
+     "total": 3.6449613818e+11,
+     "percentage": 81,
+     "isp": "Nornett AS"
+   },
+   {
+     "cdn": 2.2397259792e+11,
+     "p2p": 1.35942365123e+11,
+     "total": 3.59914963043e+11,
+     "percentage": 38,
+     "isp": "SURFnet"
+   },
+   {
+     "cdn": 1.81570101517e+11,
+     "p2p": 1.77546757566e+11,
+     "total": 3.59116859083e+11,
+     "percentage": 50,
+     "isp": "Tele2 SWIPnet"
+   },
+   {
+     "cdn": 9.5978964897e+10,
+     "p2p": 2.61131417976e+11,
+     "total": 3.57110382873e+11,
+     "percentage": 74,
+     "isp": "Tellcom Iletisim Hizmetleri A.s."
+   },
+   {
+     "cdn": 2.24915302006e+11,
+     "p2p": 1.30372631534e+11,
+     "total": 3.5528793354e+11,
+     "percentage": 37,
+     "isp": "Vodafone Czech Republic a.s."
+   },
+   {
+     "cdn": 2.52060848289e+11,
+     "p2p": 1.02366015911e+11,
+     "total": 3.544268642e+11,
+     "percentage": 29,
+     "isp": "UK2.NET"
+   },
+   {
+     "cdn": 9.4610066686e+10,
+     "p2p": 2.59604774719e+11,
+     "total": 3.54214841405e+11,
+     "percentage": 74,
+     "isp": "Blix Group AS"
+   },
+   {
+     "cdn": 1.11222072685e+11,
+     "p2p": 2.40199042766e+11,
+     "total": 3.51421115451e+11,
+     "percentage": 69,
+     "isp": "Schibsted ASA"
+   },
+   {
+     "cdn": 6.3341806672e+10,
+     "p2p": 2.86202279176e+11,
+     "total": 3.49544085848e+11,
+     "percentage": 82,
+     "isp": "Orkidenett AS"
+   },
+   {
+     "cdn": 1.96006238025e+11,
+     "p2p": 1.51494064943e+11,
+     "total": 3.47500302968e+11,
+     "percentage": 44,
+     "isp": "Dansk Kabel TV"
+   },
+   {
+     "cdn": 2.8019940228e+11,
+     "p2p": 6.6171451352e+10,
+     "total": 3.46370853632e+11,
+     "percentage": 20,
+     "isp": "Statoil ASA"
+   },
+   {
+     "cdn": 7.2346845747e+10,
+     "p2p": 2.72989234495e+11,
+     "total": 3.45336080242e+11,
+     "percentage": 80,
+     "isp": "Ardalsnett AS"
+   },
+   {
+     "cdn": 1.20000634886e+11,
+     "p2p": 2.23265829369e+11,
+     "total": 3.43266464255e+11,
+     "percentage": 66,
+     "isp": "Orange Slovensko a.s."
+   },
+   {
+     "cdn": 5.7767115311e+10,
+     "p2p": 2.85377128981e+11,
+     "total": 3.43144244292e+11,
+     "percentage": 84,
+     "isp": "Hardanger Breiband AS"
+   },
+   {
+     "cdn": 1.69018724152e+11,
+     "p2p": 1.72890157146e+11,
+     "total": 3.41908881298e+11,
+     "percentage": 51,
+     "isp": "GO p.l.c."
+   },
+   {
+     "cdn": 2.71030839403e+11,
+     "p2p": 7.0093385791e+10,
+     "total": 3.41124225194e+11,
+     "percentage": 21,
+     "isp": "M-net Telekommunikations GmbH"
+   },
+   {
+     "cdn": 9.192309891e+10,
+     "p2p": 2.46742604346e+11,
+     "total": 3.38665703256e+11,
+     "percentage": 73,
+     "isp": "Iskratelecom CJSC"
+   },
+   {
+     "cdn": 7.1141482548e+10,
+     "p2p": 2.65192521476e+11,
+     "total": 3.36334004024e+11,
+     "percentage": 79,
+     "isp": "Tel-Ag AS"
+   },
+   {
+     "cdn": 1.09274055975e+11,
+     "p2p": 2.25456206728e+11,
+     "total": 3.34730262703e+11,
+     "percentage": 68,
+     "isp": "CachedNet LLC"
+   },
+   {
+     "cdn": 3.28815995914e+11,
+     "p2p": 5.799010424e+09,
+     "total": 3.34615006338e+11,
+     "percentage": 2,
+     "isp": "RWTH Aachen University"
+   },
+   {
+     "cdn": 2.24666733397e+11,
+     "p2p": 1.0547672091e+11,
+     "total": 3.30143454307e+11,
+     "percentage": 32,
+     "isp": "Cyta Hellas"
+   },
+   {
+     "cdn": 1.49481613465e+11,
+     "p2p": 1.79840441765e+11,
+     "total": 3.2932205523e+11,
+     "percentage": 55,
+     "isp": "ANTIK Telecom s.r.o"
+   },
+   {
+     "cdn": 9.4473857692e+10,
+     "p2p": 2.34349472149e+11,
+     "total": 3.28823329841e+11,
+     "percentage": 72,
+     "isp": "Turksat Uydu-Net Internet"
+   },
+   {
+     "cdn": 3.25675656431e+11,
+     "p2p": 0,
+     "total": 3.25675656431e+11,
+     "percentage": 0,
+     "isp": "Hungarian Power System Operator Co."
+   },
+   {
+     "cdn": 1.70865335077e+11,
+     "p2p": 1.52668253841e+11,
+     "total": 3.23533588918e+11,
+     "percentage": 48,
+     "isp": "Orange Belgium SA"
+   },
+   {
+     "cdn": 9.5502323763e+10,
+     "p2p": 2.27952743074e+11,
+     "total": 3.23455066837e+11,
+     "percentage": 71,
+     "isp": "Vipnet Ltd."
+   },
+   {
+     "cdn": 5.5410725293e+10,
+     "p2p": 2.65784848522e+11,
+     "total": 3.21195573815e+11,
+     "percentage": 83,
+     "isp": "Jakobstadsnejdens Telefon Ab"
+   },
+   {
+     "cdn": 8.7062594112e+10,
+     "p2p": 2.33746621219e+11,
+     "total": 3.20809215331e+11,
+     "percentage": 73,
+     "isp": "Central Telegraph Public Joint-stock Company"
+   },
+   {
+     "cdn": 9.8180377492e+10,
+     "p2p": 2.17641195915e+11,
+     "total": 3.15821573407e+11,
+     "percentage": 69,
+     "isp": "Ventelo Hosting AS"
+   },
+   {
+     "cdn": 1.93035855677e+11,
+     "p2p": 1.2158804712e+11,
+     "total": 3.14623902797e+11,
+     "percentage": 39,
+     "isp": "DNS:NET Internet Service GmbH"
+   },
+   {
+     "cdn": 8.4828824383e+10,
+     "p2p": 2.29578457901e+11,
+     "total": 3.14407282284e+11,
+     "percentage": 74,
+     "isp": "Net at Once Sweden AB"
+   },
+   {
+     "cdn": 1.79144321114e+11,
+     "p2p": 1.35093685531e+11,
+     "total": 3.14238006645e+11,
+     "percentage": 43,
+     "isp": "kabelplus GmbH"
+   },
+   {
+     "cdn": 7.5678706068e+10,
+     "p2p": 2.34954540098e+11,
+     "total": 3.10633246166e+11,
+     "percentage": 76,
+     "isp": "Romerike Bredbaand AS"
+   },
+   {
+     "cdn": 2.05698019048e+11,
+     "p2p": 1.01987711528e+11,
+     "total": 3.07685730576e+11,
+     "percentage": 34,
+     "isp": "Telecom Italia Business"
+   },
+   {
+     "cdn": 2.26145917798e+11,
+     "p2p": 7.8153809928e+10,
+     "total": 3.04299727726e+11,
+     "percentage": 26,
+     "isp": "Leaseweb Deutschland GmbH"
+   },
+   {
+     "cdn": 8.309204855e+10,
+     "p2p": 2.18789165794e+11,
+     "total": 3.01881214344e+11,
+     "percentage": 73,
+     "isp": "Telekom Slovenije d.d."
+   },
+   {
+     "cdn": 1.0386979745e+11,
+     "p2p": 1.96079444844e+11,
+     "total": 2.99949242294e+11,
+     "percentage": 66,
+     "isp": "Tele2 Business AB"
+   },
+   {
+     "cdn": 7.2674643578e+10,
+     "p2p": 2.26014409618e+11,
+     "total": 2.98689053196e+11,
+     "percentage": 76,
+     "isp": "Sydfyns-Intranet A/S"
+   },
+   {
+     "cdn": 1.27578891593e+11,
+     "p2p": 1.68121658058e+11,
+     "total": 2.95700549651e+11,
+     "percentage": 57,
+     "isp": "Internetia Sp.z o.o."
+   },
+   {
+     "cdn": 1.0311956544e+11,
+     "p2p": 1.9121838822e+11,
+     "total": 2.9433795366e+11,
+     "percentage": 65,
+     "isp": "Vivacom"
+   },
+   {
+     "cdn": 1.21846217186e+11,
+     "p2p": 1.7137631077e+11,
+     "total": 2.93222527956e+11,
+     "percentage": 59,
+     "isp": "Bulsatcom EAD"
+   },
+   {
+     "cdn": 8.119695404e+10,
+     "p2p": 2.11995032187e+11,
+     "total": 2.93191986227e+11,
+     "percentage": 73,
+     "isp": "RingNett AS"
+   },
+   {
+     "cdn": 2.49753798735e+11,
+     "p2p": 4.2012448228e+10,
+     "total": 2.91766246963e+11,
+     "percentage": 15,
+     "isp": "Fluidone Ltd."
+   },
+   {
+     "cdn": 7.2301274718e+10,
+     "p2p": 2.188767862e+11,
+     "total": 2.91178060918e+11,
+     "percentage": 76,
+     "isp": "Superonline Iletisim Hizmetleri A.S."
+   },
+   {
+     "cdn": 7.2843256248e+10,
+     "p2p": 2.18125365702e+11,
+     "total": 2.9096862195e+11,
+     "percentage": 75,
+     "isp": "Rannsokna- og haskolanet Islands hf."
+   },
+   {
+     "cdn": 1.51330951586e+11,
+     "p2p": 1.29986167091e+11,
+     "total": 2.81317118677e+11,
+     "percentage": 47,
+     "isp": "GTS Telecom SRL"
+   },
+   {
+     "cdn": 2.79771178086e+11,
+     "p2p": 5.17719517e+08,
+     "total": 2.80288897603e+11,
+     "percentage": 1,
+     "isp": "Smart Telecom Limited"
+   },
+   {
+     "cdn": 2.23883163292e+11,
+     "p2p": 5.3641034251e+10,
+     "total": 2.77524197543e+11,
+     "percentage": 20,
+     "isp": "encoLine GmbH"
+   },
+   {
+     "cdn": 8.3911022063e+10,
+     "p2p": 1.93276937995e+11,
+     "total": 2.77187960058e+11,
+     "percentage": 70,
+     "isp": "Slovanet a.s."
+   },
+   {
+     "cdn": 1.24499154492e+11,
+     "p2p": 1.51199293514e+11,
+     "total": 2.75698448006e+11,
+     "percentage": 55,
+     "isp": "CYTA"
+   },
+   {
+     "cdn": 7.2490664791e+10,
+     "p2p": 2.02686184997e+11,
+     "total": 2.75176849788e+11,
+     "percentage": 74,
+     "isp": "Bredbaand Nord A/S"
+   },
+   {
+     "cdn": 1.46176525397e+11,
+     "p2p": 1.28089151874e+11,
+     "total": 2.74265677271e+11,
+     "percentage": 47,
+     "isp": "ZAT Industrial Media Network"
+   },
+   {
+     "cdn": 2.02314027207e+11,
+     "p2p": 7.1678209359e+10,
+     "total": 2.73992236566e+11,
+     "percentage": 27,
+     "isp": "Vodafone Ireland Limited"
+   },
+   {
+     "cdn": 2.05990853386e+11,
+     "p2p": 6.6149545413e+10,
+     "total": 2.72140398799e+11,
+     "percentage": 25,
+     "isp": "PR-TELECOM Rt."
+   },
+   {
+     "cdn": 1.52198004331e+11,
+     "p2p": 1.17298193877e+11,
+     "total": 2.69496198208e+11,
+     "percentage": 44,
+     "isp": "Croatian Academic and Research Network"
+   },
+   {
+     "cdn": 1.61823032932e+11,
+     "p2p": 1.06389217871e+11,
+     "total": 2.68212250803e+11,
+     "percentage": 40,
+     "isp": "Netgroup A/S"
+   },
+   {
+     "cdn": 1.58003052684e+11,
+     "p2p": 1.0732381405e+11,
+     "total": 2.65326866734e+11,
+     "percentage": 41,
+     "isp": "Vodafone Italia DSL"
+   },
+   {
+     "cdn": 1.29389103502e+11,
+     "p2p": 1.32864688469e+11,
+     "total": 2.62253791971e+11,
+     "percentage": 51,
+     "isp": "XFone 018 Ltd"
+   },
+   {
+     "cdn": 1.21156708212e+11,
+     "p2p": 1.34422980852e+11,
+     "total": 2.55579689064e+11,
+     "percentage": 53,
+     "isp": "BENESTRA, s.r.o."
+   },
+   {
+     "cdn": 1.6431164462e+11,
+     "p2p": 9.026255614e+10,
+     "total": 2.5457420076e+11,
+     "percentage": 36,
+     "isp": "Nos Comunicacoes, S.A."
+   },
+   {
+     "cdn": 6.5894720592e+10,
+     "p2p": 1.87734448972e+11,
+     "total": 2.53629169564e+11,
+     "percentage": 75,
+     "isp": "CD-Telematika a.s."
+   },
+   {
+     "cdn": 2.03380581825e+11,
+     "p2p": 4.9676943984e+10,
+     "total": 2.53057525809e+11,
+     "percentage": 20,
+     "isp": "Orange France Wireless"
+   },
+   {
+     "cdn": 1.96172318299e+11,
+     "p2p": 5.482619288e+10,
+     "total": 2.50998511179e+11,
+     "percentage": 22,
+     "isp": "VSE NET GmbH"
+   },
+   {
+     "cdn": 1.25319317287e+11,
+     "p2p": 1.20816824513e+11,
+     "total": 2.461361418e+11,
+     "percentage": 50,
+     "isp": "WNB ApS"
+   },
+   {
+     "cdn": 4.2972339915e+10,
+     "p2p": 2.02915322727e+11,
+     "total": 2.45887662642e+11,
+     "percentage": 83,
+     "isp": "National Telecom, CJSC"
+   },
+   {
+     "cdn": 2.2296955791e+11,
+     "p2p": 2.2693022167e+10,
+     "total": 2.45662580077e+11,
+     "percentage": 10,
+     "isp": "Completel"
+   },
+   {
+     "cdn": 5.6470460992e+10,
+     "p2p": 1.88267568231e+11,
+     "total": 2.44738029223e+11,
+     "percentage": 77,
+     "isp": "Forsvarets Logistikkorganisasjon IKT"
+   },
+   {
+     "cdn": 1.78231363342e+11,
+     "p2p": 6.6168068942e+10,
+     "total": 2.44399432284e+11,
+     "percentage": 28,
+     "isp": "EDIS GmbH"
+   },
+   {
+     "cdn": 9.4067119802e+10,
+     "p2p": 1.5002078771e+11,
+     "total": 2.44087907512e+11,
+     "percentage": 62,
+     "isp": "SMART Comp. a.s."
+   },
+   {
+     "cdn": 1.27956554946e+11,
+     "p2p": 1.14974125465e+11,
+     "total": 2.42930680411e+11,
+     "percentage": 48,
+     "isp": "Wind Telecomunicazioni"
+   },
+   {
+     "cdn": 8.9926189034e+10,
+     "p2p": 1.5286004137e+11,
+     "total": 2.42786230404e+11,
+     "percentage": 63,
+     "isp": "Liden Data Internetwork AB"
+   },
+   {
+     "cdn": 9.9172118301e+10,
+     "p2p": 1.43547019934e+11,
+     "total": 2.42719138235e+11,
+     "percentage": 60,
+     "isp": "Telekom Srbija"
+   },
+   {
+     "cdn": 1.32035758682e+11,
+     "p2p": 1.09572086863e+11,
+     "total": 2.41607845545e+11,
+     "percentage": 46,
+     "isp": "EDPNET"
+   },
+   {
+     "cdn": 6.2059335343e+10,
+     "p2p": 1.79415802763e+11,
+     "total": 2.41475138106e+11,
+     "percentage": 75,
+     "isp": "Triple C Cloud Computing Ltd."
+   },
+   {
+     "cdn": 1.60586083649e+11,
+     "p2p": 8.0815561573e+10,
+     "total": 2.41401645222e+11,
+     "percentage": 34,
+     "isp": "inexio Informationstechnologie und Telekommunikati"
+   },
+   {
+     "cdn": 1.19800063003e+11,
+     "p2p": 1.20487252483e+11,
+     "total": 2.40287315486e+11,
+     "percentage": 51,
+     "isp": "Simply Transit Ltd"
+   },
+   {
+     "cdn": 9.7091038415e+10,
+     "p2p": 1.42422638231e+11,
+     "total": 2.39513676646e+11,
+     "percentage": 60,
+     "isp": "SWAN, a.s."
+   },
+   {
+     "cdn": 4.5017746469e+10,
+     "p2p": 1.94061209229e+11,
+     "total": 2.39078955698e+11,
+     "percentage": 82,
+     "isp": "Sognenett"
+   },
+   {
+     "cdn": 7.3338846945e+10,
+     "p2p": 1.64348345528e+11,
+     "total": 2.37687192473e+11,
+     "percentage": 70,
+     "isp": "Bolignet-Aarhus"
+   },
+   {
+     "cdn": 1.06246430402e+11,
+     "p2p": 1.30878240609e+11,
+     "total": 2.37124671011e+11,
+     "percentage": 56,
+     "isp": "Glentevejs Antennelaug"
+   },
+   {
+     "cdn": 1.93317840617e+11,
+     "p2p": 4.3551846236e+10,
+     "total": 2.36869686853e+11,
+     "percentage": 19,
+     "isp": "Vodafone GmbH"
+   },
+   {
+     "cdn": 7.8165723354e+10,
+     "p2p": 1.58109674383e+11,
+     "total": 2.36275397737e+11,
+     "percentage": 67,
+     "isp": "UNINETT"
+   },
+   {
+     "cdn": 2.14212617268e+11,
+     "p2p": 2.2008041638e+10,
+     "total": 2.36220658906e+11,
+     "percentage": 10,
+     "isp": "OVH Telecom"
+   },
+   {
+     "cdn": 4.7911504102e+10,
+     "p2p": 1.87278997114e+11,
+     "total": 2.35190501216e+11,
+     "percentage": 80,
+     "isp": "Infonett Roros AS"
+   },
+   {
+     "cdn": 1.44635227743e+11,
+     "p2p": 8.9600147391e+10,
+     "total": 2.34235375134e+11,
+     "percentage": 39,
+     "isp": "UK Dedicated Servers Limited"
+   },
+   {
+     "cdn": 7.4657617894e+10,
+     "p2p": 1.59405783759e+11,
+     "total": 2.34063401653e+11,
+     "percentage": 69,
+     "isp": "TV 2 AS"
+   },
+   {
+     "cdn": 9.6599170768e+10,
+     "p2p": 1.36040248411e+11,
+     "total": 2.32639419179e+11,
+     "percentage": 59,
+     "isp": "Fiberby ApS"
+   },
+   {
+     "cdn": 3.3319536105e+10,
+     "p2p": 1.98849063752e+11,
+     "total": 2.32168599857e+11,
+     "percentage": 86,
+     "isp": "Oy Creanova Hosting Solutions Ltd."
+   },
+   {
+     "cdn": 1.11276014835e+11,
+     "p2p": 1.20159791503e+11,
+     "total": 2.31435806338e+11,
+     "percentage": 52,
+     "isp": "Comcast Cable"
+   },
+   {
+     "cdn": 9.5914640809e+10,
+     "p2p": 1.33736603494e+11,
+     "total": 2.29651244303e+11,
+     "percentage": 59,
+     "isp": "Media Netwerk"
+   },
+   {
+     "cdn": 1.38886632999e+11,
+     "p2p": 8.9657101804e+10,
+     "total": 2.28543734803e+11,
+     "percentage": 40,
+     "isp": "Aalto University Student Union"
+   },
+   {
+     "cdn": 6.9975078298e+10,
+     "p2p": 1.58256595624e+11,
+     "total": 2.28231673922e+11,
+     "percentage": 70,
+     "isp": "XetHost"
+   },
+   {
+     "cdn": 9.286024536e+10,
+     "p2p": 1.3345129242e+11,
+     "total": 2.2631153778e+11,
+     "percentage": 59,
+     "isp": "RADIOKOMUNIKACE a.s."
+   },
+   {
+     "cdn": 7.4642535038e+10,
+     "p2p": 1.51467159381e+11,
+     "total": 2.26109694419e+11,
+     "percentage": 67,
+     "isp": "WEST CALL SPb LLC"
+   },
+   {
+     "cdn": 1.59441003324e+11,
+     "p2p": 6.3992278453e+10,
+     "total": 2.23433281777e+11,
+     "percentage": 29,
+     "isp": "R Cable y Telecomunicaciones Galicia, S.A."
+   },
+   {
+     "cdn": 2.02437654129e+11,
+     "p2p": 1.9633606437e+10,
+     "total": 2.22071260566e+11,
+     "percentage": 9,
+     "isp": "Johnson \u0026 Johnson"
+   },
+   {
+     "cdn": 1.74094262865e+11,
+     "p2p": 4.6980503433e+10,
+     "total": 2.21074766298e+11,
+     "percentage": 22,
+     "isp": "Daisy Communications Ltd"
+   },
+   {
+     "cdn": 6.7939273469e+10,
+     "p2p": 1.50748090173e+11,
+     "total": 2.18687363642e+11,
+     "percentage": 69,
+     "isp": "RIO Media a.s."
+   },
+   {
+     "cdn": 1.78935343535e+11,
+     "p2p": 3.8483441319e+10,
+     "total": 2.17418784854e+11,
+     "percentage": 18,
+     "isp": "DigitalOcean"
+   },
+   {
+     "cdn": 4.2650907952e+10,
+     "p2p": 1.73041221857e+11,
+     "total": 2.15692129809e+11,
+     "percentage": 81,
+     "isp": "WOLFNET.CZ"
+   },
+   {
+     "cdn": 1.17467163245e+11,
+     "p2p": 9.7756661597e+10,
+     "total": 2.15223824842e+11,
+     "percentage": 46,
+     "isp": "Plusnet"
+   },
+   {
+     "cdn": 1.68355239548e+11,
+     "p2p": 4.6751720201e+10,
+     "total": 2.15106959749e+11,
+     "percentage": 22,
+     "isp": "Orange Espagne SA"
+   },
+   {
+     "cdn": 4.3187641258e+10,
+     "p2p": 1.6987286862e+11,
+     "total": 2.13060509878e+11,
+     "percentage": 80,
+     "isp": "Latvian Mobile Telephone"
+   },
+   {
+     "cdn": 2.0882464158e+11,
+     "p2p": 3.457132422e+09,
+     "total": 2.12281774002e+11,
+     "percentage": 2,
+     "isp": "Mujde Aybars Koyluc trading as Furya Internet Hizm"
+   },
+   {
+     "cdn": 1.60428758215e+11,
+     "p2p": 5.0365051474e+10,
+     "total": 2.10793809689e+11,
+     "percentage": 24,
+     "isp": "Jisc Services Limited"
+   },
+   {
+     "cdn": 7.9614461134e+10,
+     "p2p": 1.3007153092e+11,
+     "total": 2.09685992054e+11,
+     "percentage": 63,
+     "isp": "IP4ISP z.s.p.o"
+   },
+   {
+     "cdn": 1.32346896252e+11,
+     "p2p": 7.7238888346e+10,
+     "total": 2.09585784598e+11,
+     "percentage": 37,
+     "isp": "Virgin Media Business"
+   },
+   {
+     "cdn": 6.9847606072e+10,
+     "p2p": 1.3892818977e+11,
+     "total": 2.08775795842e+11,
+     "percentage": 67,
+     "isp": "Tele2 Nederland B.V."
+   },
+   {
+     "cdn": 1.52415320656e+11,
+     "p2p": 5.4303707764e+10,
+     "total": 2.0671902842e+11,
+     "percentage": 27,
+     "isp": "Nianet A/S"
+   },
+   {
+     "cdn": 7.1536298428e+10,
+     "p2p": 1.32009453081e+11,
+     "total": 2.03545751509e+11,
+     "percentage": 65,
+     "isp": "Breiband.no AS"
+   },
+   {
+     "cdn": 4.6990708012e+10,
+     "p2p": 1.55112858852e+11,
+     "total": 2.02103566864e+11,
+     "percentage": 77,
+     "isp": "Ask4 Limited"
+   },
+   {
+     "cdn": 1.06084378903e+11,
+     "p2p": 9.4776040211e+10,
+     "total": 2.00860419114e+11,
+     "percentage": 48,
+     "isp": "BDTV"
+   },
+   {
+     "cdn": 6.80811344e+10,
+     "p2p": 1.31639025633e+11,
+     "total": 1.99720160033e+11,
+     "percentage": 66,
+     "isp": "Salten Bredband AS"
+   },
+   {
+     "cdn": 1.74638791447e+11,
+     "p2p": 2.3054525239e+10,
+     "total": 1.97693316686e+11,
+     "percentage": 12,
+     "isp": "SysEleven GmbH"
+   },
+   {
+     "cdn": 1.07829897985e+11,
+     "p2p": 8.8789242083e+10,
+     "total": 1.96619140068e+11,
+     "percentage": 46,
+     "isp": "Telecable de Asturias,SA"
+   },
+   {
+     "cdn": 6.0660510571e+10,
+     "p2p": 1.35830835008e+11,
+     "total": 1.96491345579e+11,
+     "percentage": 70,
+     "isp": "Deninet KFT"
+   },
+   {
+     "cdn": 5.3735380181e+10,
+     "p2p": 1.41847952701e+11,
+     "total": 1.95583332882e+11,
+     "percentage": 73,
+     "isp": "Starman AS"
+   },
+   {
+     "cdn": 1.65612436082e+11,
+     "p2p": 2.9638205455e+10,
+     "total": 1.95250641537e+11,
+     "percentage": 16,
+     "isp": "FL!NK GmbH"
+   },
+   {
+     "cdn": 5.7380786129e+10,
+     "p2p": 1.37099772724e+11,
+     "total": 1.94480558853e+11,
+     "percentage": 71,
+     "isp": "Valaiscom AG"
+   },
+   {
+     "cdn": 1.7088929097e+11,
+     "p2p": 2.1829176166e+10,
+     "total": 1.92718467136e+11,
+     "percentage": 12,
+     "isp": "Electronic Arts"
+   },
+   {
+     "cdn": 6.0023516843e+10,
+     "p2p": 1.32467626505e+11,
+     "total": 1.92491143348e+11,
+     "percentage": 69,
+     "isp": "FreeTel, s.r.o."
+   },
+   {
+     "cdn": 1.60782815339e+11,
+     "p2p": 3.1231490987e+10,
+     "total": 1.92014306326e+11,
+     "percentage": 17,
+     "isp": "Vodafone D2 GmbH"
+   },
+   {
+     "cdn": 5.1651933309e+10,
+     "p2p": 1.38685562103e+11,
+     "total": 1.90337495412e+11,
+     "percentage": 73,
+     "isp": "University of Jyvaskyla"
+   },
+   {
+     "cdn": 7.27311993e+10,
+     "p2p": 1.16577298551e+11,
+     "total": 1.89308497851e+11,
+     "percentage": 62,
+     "isp": "Stockholms Stadsnat AB"
+   },
+   {
+     "cdn": 4.690170023e+10,
+     "p2p": 1.42181885501e+11,
+     "total": 1.89083585731e+11,
+     "percentage": 76,
+     "isp": "Eniasan Srl"
+   },
+   {
+     "cdn": 4.2130322931e+10,
+     "p2p": 1.46311008005e+11,
+     "total": 1.88441330936e+11,
+     "percentage": 78,
+     "isp": "PODA a.s."
+   },
+   {
+     "cdn": 7.6990746027e+10,
+     "p2p": 1.11088011341e+11,
+     "total": 1.88078757368e+11,
+     "percentage": 60,
+     "isp": "Freenet Ltd."
+   },
+   {
+     "cdn": 9.7017609625e+10,
+     "p2p": 8.9422000058e+10,
+     "total": 1.86439609683e+11,
+     "percentage": 48,
+     "isp": "DGC Access AB"
+   },
+   {
+     "cdn": 5.8773117909e+10,
+     "p2p": 1.24847536143e+11,
+     "total": 1.83620654052e+11,
+     "percentage": 68,
+     "isp": "Gigabit ApS"
+   },
+   {
+     "cdn": 1.29985103032e+11,
+     "p2p": 5.2956174448e+10,
+     "total": 1.8294127748e+11,
+     "percentage": 29,
+     "isp": "Oy Crea Nova Hosting Solutions Ltd."
+   },
+   {
+     "cdn": 6.6726409148e+10,
+     "p2p": 1.14415985508e+11,
+     "total": 1.81142394656e+11,
+     "percentage": 64,
+     "isp": "NET1 Ltd."
+   },
+   {
+     "cdn": 1.05100796521e+11,
+     "p2p": 7.5922617305e+10,
+     "total": 1.81023413826e+11,
+     "percentage": 42,
+     "isp": "Osuuskunta Keskikaista"
+   },
+   {
+     "cdn": 1.45169161398e+11,
+     "p2p": 3.3148920275e+10,
+     "total": 1.78318081673e+11,
+     "percentage": 19,
+     "isp": "Skynet Ltd"
+   },
+   {
+     "cdn": 7.3350392862e+10,
+     "p2p": 1.03367029367e+11,
+     "total": 1.76717422229e+11,
+     "percentage": 59,
+     "isp": "TeleColumbus"
+   },
+   {
+     "cdn": 4.4029295519e+10,
+     "p2p": 1.31894183672e+11,
+     "total": 1.75923479191e+11,
+     "percentage": 75,
+     "isp": "Rial Com JSC"
+   },
+   {
+     "cdn": 9.1686245938e+10,
+     "p2p": 8.3567480397e+10,
+     "total": 1.75253726335e+11,
+     "percentage": 48,
+     "isp": "ISKON INTERNET d.d. za informatiku i telekomunikac"
+   },
+   {
+     "cdn": 5.144162055e+10,
+     "p2p": 1.23327399473e+11,
+     "total": 1.74769020023e+11,
+     "percentage": 71,
+     "isp": "IT Systems LLC"
+   },
+   {
+     "cdn": 7.4811903687e+10,
+     "p2p": 9.9574772717e+10,
+     "total": 1.74386676404e+11,
+     "percentage": 58,
+     "isp": "Kvantel AS"
+   },
+   {
+     "cdn": 9.1276044047e+10,
+     "p2p": 8.2587996709e+10,
+     "total": 1.73864040756e+11,
+     "percentage": 48,
+     "isp": "Green Connection AG"
+   },
+   {
+     "cdn": 5.2659046569e+10,
+     "p2p": 1.19703634736e+11,
+     "total": 1.72362681305e+11,
+     "percentage": 70,
+     "isp": "Availo Networks AB"
+   },
+   {
+     "cdn": 8.621926207e+10,
+     "p2p": 8.344745993e+10,
+     "total": 1.69666722e+11,
+     "percentage": 50,
+     "isp": "Regionalna Telewizja Kablowa Spolka Jawna L.Iwansk"
+   },
+   {
+     "cdn": 1.13627404864e+11,
+     "p2p": 5.5856588016e+10,
+     "total": 1.6948399288e+11,
+     "percentage": 33,
+     "isp": "OVH SAS"
+   },
+   {
+     "cdn": 1.26168669067e+11,
+     "p2p": 4.2330907413e+10,
+     "total": 1.6849957648e+11,
+     "percentage": 26,
+     "isp": "A\u0026F Networks B.V."
+   },
+   {
+     "cdn": 6.6708190392e+10,
+     "p2p": 1.01202801935e+11,
+     "total": 1.67910992327e+11,
+     "percentage": 61,
+     "isp": "Societe Reunionnaise Du Radiotelephone Scs"
+   },
+   {
+     "cdn": 1.67511734323e+11,
+     "p2p": 0,
+     "total": 1.67511734323e+11,
+     "percentage": 0,
+     "isp": "Vysoka skola chemicko-technologicka v Praze"
+   },
+   {
+     "cdn": 8.0286613498e+10,
+     "p2p": 8.7151958962e+10,
+     "total": 1.6743857246e+11,
+     "percentage": 53,
+     "isp": "ZAO AKADO-Ekaterinburg"
+   },
+   {
+     "cdn": 5.4638748642e+10,
+     "p2p": 1.126201377e+11,
+     "total": 1.67258886342e+11,
+     "percentage": 68,
+     "isp": "OJSC Ufanet"
+   },
+   {
+     "cdn": 3.1680827761e+10,
+     "p2p": 1.35470823122e+11,
+     "total": 1.67151650883e+11,
+     "percentage": 82,
+     "isp": "Alands Telekommunikation Ab"
+   },
+   {
+     "cdn": 2.6492485386e+10,
+     "p2p": 1.40225071757e+11,
+     "total": 1.66717557143e+11,
+     "percentage": 85,
+     "isp": "NetXP s.a.s."
+   },
+   {
+     "cdn": 7.7216027947e+10,
+     "p2p": 8.930910386e+10,
+     "total": 1.66525131807e+11,
+     "percentage": 54,
+     "isp": "LPOnet Oy"
+   },
+   {
+     "cdn": 6.5907736939e+10,
+     "p2p": 9.871027673e+10,
+     "total": 1.64618013669e+11,
+     "percentage": 60,
+     "isp": "Ojsc oao Tattelecom"
+   },
+   {
+     "cdn": 1.2059778836e+11,
+     "p2p": 4.3971080906e+10,
+     "total": 1.64568869266e+11,
+     "percentage": 27,
+     "isp": "Eclipse Internet"
+   },
+   {
+     "cdn": 1.21915689099e+11,
+     "p2p": 4.2627112744e+10,
+     "total": 1.64542801843e+11,
+     "percentage": 26,
+     "isp": "Hyperoptic Ltd"
+   },
+   {
+     "cdn": 6.5264824304e+10,
+     "p2p": 9.5103729794e+10,
+     "total": 1.60368554098e+11,
+     "percentage": 60,
+     "isp": "JMDI Jacek Maleszko"
+   },
+   {
+     "cdn": 1.29188816411e+11,
+     "p2p": 3.0893002879e+10,
+     "total": 1.6008181929e+11,
+     "percentage": 20,
+     "isp": "Tele2 Telecommunication GmbH"
+   },
+   {
+     "cdn": 1.4533404771e+10,
+     "p2p": 1.45400791091e+11,
+     "total": 1.59934195862e+11,
+     "percentage": 91,
+     "isp": "GVD Antenneforening"
+   },
+   {
+     "cdn": 3.0512918019e+10,
+     "p2p": 1.27686886772e+11,
+     "total": 1.58199804791e+11,
+     "percentage": 81,
+     "isp": "Netprotect Srl"
+   },
+   {
+     "cdn": 6.8481511097e+10,
+     "p2p": 8.89477003e+10,
+     "total": 1.57429211397e+11,
+     "percentage": 57,
+     "isp": "Telemach d.o.o."
+   },
+   {
+     "cdn": 5.9601360129e+10,
+     "p2p": 9.738881518e+10,
+     "total": 1.56990175309e+11,
+     "percentage": 63,
+     "isp": "Telfort B.V."
+   },
+   {
+     "cdn": 1.03267054212e+11,
+     "p2p": 5.2453499783e+10,
+     "total": 1.55720553995e+11,
+     "percentage": 34,
+     "isp": "Herault Telecom"
+   },
+   {
+     "cdn": 7.7811154589e+10,
+     "p2p": 7.722337203e+10,
+     "total": 1.55034526619e+11,
+     "percentage": 50,
+     "isp": "CoProSys a.s."
+   },
+   {
+     "cdn": 1.35030950279e+11,
+     "p2p": 1.9687272782e+10,
+     "total": 1.54718223061e+11,
+     "percentage": 13,
+     "isp": "Ozone SAS"
+   },
+   {
+     "cdn": 2.246533873e+10,
+     "p2p": 1.31788699085e+11,
+     "total": 1.54254037815e+11,
+     "percentage": 86,
+     "isp": "Kvinnherad Breiband AS"
+   },
+   {
+     "cdn": 5.1429982081e+10,
+     "p2p": 1.0188156264e+11,
+     "total": 1.53311544721e+11,
+     "percentage": 67,
+     "isp": "itself s.r.o."
+   },
+   {
+     "cdn": 1.5308819231e+11,
+     "p2p": 702744,
+     "total": 1.53088895054e+11,
+     "percentage": 1,
+     "isp": "Capgemini Finland Oy"
+   },
+   {
+     "cdn": 4.870505537e+10,
+     "p2p": 1.04311243498e+11,
+     "total": 1.53016298868e+11,
+     "percentage": 69,
+     "isp": "ATM S.A."
+   },
+   {
+     "cdn": 5.7779096171e+10,
+     "p2p": 9.5141859218e+10,
+     "total": 1.52920955389e+11,
+     "percentage": 63,
+     "isp": "Closed Joint Stock Company TransTeleCom"
+   },
+   {
+     "cdn": 3.6344943487e+10,
+     "p2p": 1.16330364274e+11,
+     "total": 1.52675307761e+11,
+     "percentage": 77,
+     "isp": "EasySpeedy Danmark ApS"
+   },
+   {
+     "cdn": 1.4594073261e+11,
+     "p2p": 6.010658979e+09,
+     "total": 1.51951391589e+11,
+     "percentage": 4,
+     "isp": "Occino GmbH"
+   },
+   {
+     "cdn": 1.16285101376e+11,
+     "p2p": 3.5182947619e+10,
+     "total": 1.51468048995e+11,
+     "percentage": 24,
+     "isp": "Cable \u0026 Wireless UK P.U.C."
+   },
+   {
+     "cdn": 1.2939594103e+11,
+     "p2p": 2.1052479679e+10,
+     "total": 1.50448420709e+11,
+     "percentage": 14,
+     "isp": "BrainStorm Network"
+   },
+   {
+     "cdn": 5.1609143249e+10,
+     "p2p": 9.8699701832e+10,
+     "total": 1.50308845081e+11,
+     "percentage": 66,
+     "isp": "Nextgen Communications Srl"
+   },
+   {
+     "cdn": 9.8057714133e+10,
+     "p2p": 5.1597635092e+10,
+     "total": 1.49655349225e+11,
+     "percentage": 35,
+     "isp": "e.discom Telekommunikation GmbH"
+   },
+   {
+     "cdn": 4.301068841e+10,
+     "p2p": 1.05879998635e+11,
+     "total": 1.48890687045e+11,
+     "percentage": 72,
+     "isp": "Elektronica Sistemi S.n.c."
+   },
+   {
+     "cdn": 1.30532298178e+11,
+     "p2p": 1.8245591606e+10,
+     "total": 1.48777889784e+11,
+     "percentage": 13,
+     "isp": "Verein zur Foerderung eines Deutschen Forschungsne"
+   },
+   {
+     "cdn": 5.8582901877e+10,
+     "p2p": 8.9543369115e+10,
+     "total": 1.48126270992e+11,
+     "percentage": 61,
+     "isp": "Coditel Brabant SPRL/BVBA"
+   },
+   {
+     "cdn": 6.4127362246e+10,
+     "p2p": 8.3591788256e+10,
+     "total": 1.47719150502e+11,
+     "percentage": 57,
+     "isp": "TK Telekom sp. z o.o."
+   },
+   {
+     "cdn": 1.38300813035e+11,
+     "p2p": 8.138482112e+09,
+     "total": 1.46439295147e+11,
+     "percentage": 6,
+     "isp": "Stockholms Lans Landsting"
+   },
+   {
+     "cdn": 3.0963685129e+10,
+     "p2p": 1.15098537795e+11,
+     "total": 1.46062222924e+11,
+     "percentage": 79,
+     "isp": "Telenor Sverige Aktiebolag"
+   },
+   {
+     "cdn": 7.9324395116e+10,
+     "p2p": 6.6543504551e+10,
+     "total": 1.45867899667e+11,
+     "percentage": 46,
+     "isp": "Solcon Internetdiensten N.V."
+   },
+   {
+     "cdn": 8.5016095355e+10,
+     "p2p": 6.0833555838e+10,
+     "total": 1.45849651193e+11,
+     "percentage": 42,
+     "isp": "NEF Fonden"
+   },
+   {
+     "cdn": 1.29494999287e+11,
+     "p2p": 1.5754533685e+10,
+     "total": 1.45249532972e+11,
+     "percentage": 11,
+     "isp": "Stiegeler Internet Service GmbH"
+   },
+   {
+     "cdn": 8.0212851141e+10,
+     "p2p": 6.2040938286e+10,
+     "total": 1.42253789427e+11,
+     "percentage": 44,
+     "isp": "BT Communications Ireland Limited"
+   },
+   {
+     "cdn": 4.4646780098e+10,
+     "p2p": 9.7014662562e+10,
+     "total": 1.4166144266e+11,
+     "percentage": 69,
+     "isp": "Tampere University of Technology"
+   },
+   {
+     "cdn": 4.7993850522e+10,
+     "p2p": 9.3293594238e+10,
+     "total": 1.4128744476e+11,
+     "percentage": 67,
+     "isp": "Uus Programm"
+   },
+   {
+     "cdn": 4.5972290993e+10,
+     "p2p": 9.4858883633e+10,
+     "total": 1.40831174626e+11,
+     "percentage": 68,
+     "isp": "Tiscali SpA"
+   },
+   {
+     "cdn": 6.8404193202e+10,
+     "p2p": 7.1074507752e+10,
+     "total": 1.39478700954e+11,
+     "percentage": 51,
+     "isp": "Luxembourg Online S.A."
+   },
+   {
+     "cdn": 2.3233590966e+10,
+     "p2p": 1.16177653113e+11,
+     "total": 1.39411244079e+11,
+     "percentage": 84,
+     "isp": "Vitnett AS"
+   },
+   {
+     "cdn": 5.9248521322e+10,
+     "p2p": 8.0160891236e+10,
+     "total": 1.39409412558e+11,
+     "percentage": 58,
+     "isp": "LLC Multiscan"
+   },
+   {
+     "cdn": 5.6844560253e+10,
+     "p2p": 8.2353235347e+10,
+     "total": 1.391977956e+11,
+     "percentage": 60,
+     "isp": "Hringidan ehf / Vortex Inc"
+   },
+   {
+     "cdn": 6.1766688483e+10,
+     "p2p": 7.6906501909e+10,
+     "total": 1.38673190392e+11,
+     "percentage": 56,
+     "isp": "Novotelecom Ltd"
+   },
+   {
+     "cdn": 5.0132277306e+10,
+     "p2p": 8.8509659387e+10,
+     "total": 1.38641936693e+11,
+     "percentage": 64,
+     "isp": "Verdo Tele A/S"
+   },
+   {
+     "cdn": 5.1494511912e+10,
+     "p2p": 8.5517257513e+10,
+     "total": 1.37011769425e+11,
+     "percentage": 63,
+     "isp": "NetDataComm, s.r.o."
+   },
+   {
+     "cdn": 9.0712300828e+10,
+     "p2p": 4.6056518968e+10,
+     "total": 1.36768819796e+11,
+     "percentage": 34,
+     "isp": "EE Mobile"
+   },
+   {
+     "cdn": 2.298409724e+10,
+     "p2p": 1.13598247887e+11,
+     "total": 1.36582345127e+11,
+     "percentage": 84,
+     "isp": "Alpha Net Telecom Ltd"
+   },
+   {
+     "cdn": 2.634172671e+10,
+     "p2p": 1.09567879086e+11,
+     "total": 1.35909605796e+11,
+     "percentage": 81,
+     "isp": "ZETO S.A. Tarnow"
+   },
+   {
+     "cdn": 6.8397342779e+10,
+     "p2p": 6.5616527354e+10,
+     "total": 1.34013870133e+11,
+     "percentage": 49,
+     "isp": "ROSNIIROS Russian Institute for Public Networks"
+   },
+   {
+     "cdn": 4.5843494605e+10,
+     "p2p": 8.8066192924e+10,
+     "total": 1.33909687529e+11,
+     "percentage": 66,
+     "isp": "OSTKOM SIA"
+   },
+   {
+     "cdn": 3.1537894611e+10,
+     "p2p": 1.01747708838e+11,
+     "total": 1.33285603449e+11,
+     "percentage": 77,
+     "isp": "Teleservice Bredband Skane AB"
+   },
+   {
+     "cdn": 4.6052804959e+10,
+     "p2p": 8.7192542305e+10,
+     "total": 1.33245347264e+11,
+     "percentage": 66,
+     "isp": "Goteborgs universitet"
+   },
+   {
+     "cdn": 5.4428247072e+10,
+     "p2p": 7.8624667232e+10,
+     "total": 1.33052914304e+11,
+     "percentage": 60,
+     "isp": "SUNET/NORDUnet"
+   },
+   {
+     "cdn": 1.16800584005e+11,
+     "p2p": 1.5860332261e+10,
+     "total": 1.32660916266e+11,
+     "percentage": 12,
+     "isp": "Unser Ortsnetz GmbH"
+   },
+   {
+     "cdn": 1.16554410209e+11,
+     "p2p": 1.4453884135e+10,
+     "total": 1.31008294344e+11,
+     "percentage": 12,
+     "isp": "sdt.net AG"
+   },
+   {
+     "cdn": 3.9206536849e+10,
+     "p2p": 9.1611976233e+10,
+     "total": 1.30818513082e+11,
+     "percentage": 71,
+     "isp": "IPACCT Ltd."
+   },
+   {
+     "cdn": 7.107192619e+10,
+     "p2p": 5.9352107338e+10,
+     "total": 1.30424033528e+11,
+     "percentage": 46,
+     "isp": "Routit BV"
+   },
+   {
+     "cdn": 3.0520357445e+10,
+     "p2p": 9.8373907632e+10,
+     "total": 1.28894265077e+11,
+     "percentage": 77,
+     "isp": "Zalaszam Informatika Kft."
+   },
+   {
+     "cdn": 3.990300463e+10,
+     "p2p": 8.8914740769e+10,
+     "total": 1.28817745399e+11,
+     "percentage": 70,
+     "isp": "Bredbandsson AB"
+   },
+   {
+     "cdn": 5.7986796266e+10,
+     "p2p": 7.0407837248e+10,
+     "total": 1.28394633514e+11,
+     "percentage": 55,
+     "isp": "Brutele SC"
+   },
+   {
+     "cdn": 1.01278907388e+11,
+     "p2p": 2.7105621577e+10,
+     "total": 1.28384528965e+11,
+     "percentage": 22,
+     "isp": "Mediam Oy"
+   },
+   {
+     "cdn": 3.4676715723e+10,
+     "p2p": 9.3620723737e+10,
+     "total": 1.2829743946e+11,
+     "percentage": 73,
+     "isp": "OOO Network of data-centers Selectel"
+   },
+   {
+     "cdn": 2.2005240256e+10,
+     "p2p": 1.06272084729e+11,
+     "total": 1.28277324985e+11,
+     "percentage": 83,
+     "isp": "University of Stavanger"
+   },
+   {
+     "cdn": 1.5723187122e+10,
+     "p2p": 1.11093282278e+11,
+     "total": 1.268164694e+11,
+     "percentage": 88,
+     "isp": "Inet Centrum S.c. Jolanta Brandys, Pawel Brandys"
+   },
+   {
+     "cdn": 1.01715353125e+11,
+     "p2p": 2.4655837069e+10,
+     "total": 1.26371190194e+11,
+     "percentage": 20,
+     "isp": "HL komm Telekommunikations GmbH"
+   },
+   {
+     "cdn": 1.13403420683e+11,
+     "p2p": 1.2148864663e+10,
+     "total": 1.25552285346e+11,
+     "percentage": 10,
+     "isp": "Thuega SmartService GmbH"
+   },
+   {
+     "cdn": 3.5184066102e+10,
+     "p2p": 9.0170152921e+10,
+     "total": 1.25354219023e+11,
+     "percentage": 72,
+     "isp": "Iradeum Treiding Ood"
+   },
+   {
+     "cdn": 9.902806539e+10,
+     "p2p": 2.5413288021e+10,
+     "total": 1.24441353411e+11,
+     "percentage": 21,
+     "isp": "komro GmbH"
+   },
+   {
+     "cdn": 4.2733293084e+10,
+     "p2p": 8.1641999471e+10,
+     "total": 1.24375292555e+11,
+     "percentage": 66,
+     "isp": "Norwegian Broadcasting Corporation"
+   },
+   {
+     "cdn": 3.5327963957e+10,
+     "p2p": 8.8231298824e+10,
+     "total": 1.23559262781e+11,
+     "percentage": 72,
+     "isp": "ViDaNet Cabletelevision Provider Ltd."
+   },
+   {
+     "cdn": 8.9356145926e+10,
+     "p2p": 3.4110374502e+10,
+     "total": 1.23466520428e+11,
+     "percentage": 28,
+     "isp": "Exponential-e"
+   },
+   {
+     "cdn": 1.00289995887e+11,
+     "p2p": 2.2940919872e+10,
+     "total": 1.23230915759e+11,
+     "percentage": 19,
+     "isp": "Region Hovedstaden"
+   },
+   {
+     "cdn": 3.9523235456e+10,
+     "p2p": 8.350578862e+10,
+     "total": 1.23029024076e+11,
+     "percentage": 68,
+     "isp": "TerraHost"
+   },
+   {
+     "cdn": 4.0440544458e+10,
+     "p2p": 8.210713818e+10,
+     "total": 1.22547682638e+11,
+     "percentage": 68,
+     "isp": "Internet Union Spolka Akcyjna"
+   },
+   {
+     "cdn": 4.7781389688e+10,
+     "p2p": 7.4130491711e+10,
+     "total": 1.21911881399e+11,
+     "percentage": 61,
+     "isp": "Swisscom (Schweiz) AG"
+   },
+   {
+     "cdn": 3.7187738715e+10,
+     "p2p": 8.3962575066e+10,
+     "total": 1.21150313781e+11,
+     "percentage": 70,
+     "isp": "free-zona s.r.o."
+   },
+   {
+     "cdn": 2.407883227e+10,
+     "p2p": 9.6957883494e+10,
+     "total": 1.21036715764e+11,
+     "percentage": 81,
+     "isp": "Bell Canada"
+   },
+   {
+     "cdn": 4.9513115191e+10,
+     "p2p": 7.1464823261e+10,
+     "total": 1.20977938452e+11,
+     "percentage": 60,
+     "isp": "PE Meshchaninov Nikolay Nikolaevych"
+   },
+   {
+     "cdn": 2.9827500099e+10,
+     "p2p": 9.0993614053e+10,
+     "total": 1.20821114152e+11,
+     "percentage": 76,
+     "isp": "AVAST Software s.r.o."
+   },
+   {
+     "cdn": 1.5903465958e+10,
+     "p2p": 1.04869677277e+11,
+     "total": 1.20773143235e+11,
+     "percentage": 87,
+     "isp": "Evolink AD"
+   },
+   {
+     "cdn": 1.12158959117e+11,
+     "p2p": 8.17318361e+09,
+     "total": 1.20332142727e+11,
+     "percentage": 7,
+     "isp": "OJSC Svyazinform"
+   },
+   {
+     "cdn": 1.18115841249e+11,
+     "p2p": 1.947949515e+09,
+     "total": 1.20063790764e+11,
+     "percentage": 2,
+     "isp": "Zdruzenie pouzivatelov Slovenskej akademickej dato"
+   },
+   {
+     "cdn": 1.02812274739e+11,
+     "p2p": 1.6939292871e+10,
+     "total": 1.1975156761e+11,
+     "percentage": 15,
+     "isp": "IP-Only Networks AS"
+   },
+   {
+     "cdn": 8.5042782385e+10,
+     "p2p": 3.430897249e+10,
+     "total": 1.19351754875e+11,
+     "percentage": 29,
+     "isp": "WIBOX SASU"
+   },
+   {
+     "cdn": 2.105405572e+10,
+     "p2p": 9.8285030807e+10,
+     "total": 1.19339086527e+11,
+     "percentage": 83,
+     "isp": "LLC TOMTEL"
+   },
+   {
+     "cdn": 4.8844278578e+10,
+     "p2p": 6.9213649338e+10,
+     "total": 1.18057927916e+11,
+     "percentage": 59,
+     "isp": "Suomi Communications Oy"
+   },
+   {
+     "cdn": 9.9064680578e+10,
+     "p2p": 1.8950680045e+10,
+     "total": 1.18015360623e+11,
+     "percentage": 17,
+     "isp": "Delta Telecom Ltd"
+   },
+   {
+     "cdn": 3.4680000036e+10,
+     "p2p": 8.3155128026e+10,
+     "total": 1.17835128062e+11,
+     "percentage": 71,
+     "isp": "Academic Computer Centre CYFRONET AGH"
+   },
+   {
+     "cdn": 8.8369998674e+10,
+     "p2p": 2.9459931907e+10,
+     "total": 1.17829930581e+11,
+     "percentage": 26,
+     "isp": "ENTEGA Medianet GmbH"
+   },
+   {
+     "cdn": 3.0408440951e+10,
+     "p2p": 8.7209718109e+10,
+     "total": 1.1761815906e+11,
+     "percentage": 75,
+     "isp": "SIA Baltcom"
+   },
+   {
+     "cdn": 2.0787637412e+10,
+     "p2p": 9.6297808777e+10,
+     "total": 1.17085446189e+11,
+     "percentage": 83,
+     "isp": "Gauldal IKT AS"
+   },
+   {
+     "cdn": 5.2169237449e+10,
+     "p2p": 6.4699856906e+10,
+     "total": 1.16869094355e+11,
+     "percentage": 56,
+     "isp": "Vodafone Portugal"
+   },
+   {
+     "cdn": 7.3034646239e+10,
+     "p2p": 4.3739540339e+10,
+     "total": 1.16774186578e+11,
+     "percentage": 38,
+     "isp": "HETZNER"
+   },
+   {
+     "cdn": 4.1934149075e+10,
+     "p2p": 7.4637688417e+10,
+     "total": 1.16571837492e+11,
+     "percentage": 65,
+     "isp": "Bilkent University"
+   },
+   {
+     "cdn": 3.3963840155e+10,
+     "p2p": 8.2522783022e+10,
+     "total": 1.16486623177e+11,
+     "percentage": 71,
+     "isp": "Electro-Communication Telecom Ltd"
+   },
+   {
+     "cdn": 1.9565316837e+10,
+     "p2p": 9.6002782849e+10,
+     "total": 1.15568099686e+11,
+     "percentage": 84,
+     "isp": "Sibirskie Seti Ltd."
+   },
+   {
+     "cdn": 1.7398240637e+10,
+     "p2p": 9.7664764399e+10,
+     "total": 1.15063005036e+11,
+     "percentage": 85,
+     "isp": "Torgovij Dom Asteis Ltd."
+   },
+   {
+     "cdn": 7.1949895628e+10,
+     "p2p": 4.2313718747e+10,
+     "total": 1.14263614375e+11,
+     "percentage": 38,
+     "isp": "Vodafone Broadband"
+   },
+   {
+     "cdn": 6.7840850665e+10,
+     "p2p": 4.6263707569e+10,
+     "total": 1.14104558234e+11,
+     "percentage": 41,
+     "isp": "Mediaproduccion Sl"
+   },
+   {
+     "cdn": 1.08310440838e+11,
+     "p2p": 5.78998253e+09,
+     "total": 1.14100423368e+11,
+     "percentage": 6,
+     "isp": "sas alsatis"
+   },
+   {
+     "cdn": 3.378610246e+10,
+     "p2p": 8.0203067883e+10,
+     "total": 1.13989170343e+11,
+     "percentage": 71,
+     "isp": "M-SOFT, spol. s r.o."
+   },
+   {
+     "cdn": 6.1207171017e+10,
+     "p2p": 5.2634932141e+10,
+     "total": 1.13842103158e+11,
+     "percentage": 47,
+     "isp": "TIS Dialog LLC"
+   },
+   {
+     "cdn": 7.4688020286e+10,
+     "p2p": 3.902711113e+10,
+     "total": 1.13715131416e+11,
+     "percentage": 35,
+     "isp": "Vodafone Ireland"
+   },
+   {
+     "cdn": 3.77011369e+10,
+     "p2p": 7.5216409147e+10,
+     "total": 1.12917546047e+11,
+     "percentage": 67,
+     "isp": "CPRnet.pl"
+   },
+   {
+     "cdn": 5.3613953687e+10,
+     "p2p": 5.9150586271e+10,
+     "total": 1.12764539958e+11,
+     "percentage": 53,
+     "isp": "Stockholms Stadsnät AB"
+   },
+   {
+     "cdn": 3.5633901357e+10,
+     "p2p": 7.6993822164e+10,
+     "total": 1.12627723521e+11,
+     "percentage": 69,
+     "isp": "Pohjois-Hameen Puhelin Oy"
+   },
+   {
+     "cdn": 2.8617979556e+10,
+     "p2p": 8.3835760324e+10,
+     "total": 1.1245373988e+11,
+     "percentage": 75,
+     "isp": "Alf servis, s.r.o."
+   },
+   {
+     "cdn": 5.5909609099e+10,
+     "p2p": 5.6444540784e+10,
+     "total": 1.12354149883e+11,
+     "percentage": 51,
+     "isp": "Umea University"
+   },
+   {
+     "cdn": 2.1013330288e+10,
+     "p2p": 9.0218698594e+10,
+     "total": 1.11232028882e+11,
+     "percentage": 82,
+     "isp": "ART-COM Sp. z o.o."
+   },
+   {
+     "cdn": 5.0514804826e+10,
+     "p2p": 5.9673157724e+10,
+     "total": 1.1018796255e+11,
+     "percentage": 55,
+     "isp": "Ic-voronezh"
+   },
+   {
+     "cdn": 3.5475540301e+10,
+     "p2p": 7.4375633255e+10,
+     "total": 1.09851173556e+11,
+     "percentage": 68,
+     "isp": "P/F Telefonverkid"
+   },
+   {
+     "cdn": 2.0186767025e+10,
+     "p2p": 8.9630252078e+10,
+     "total": 1.09817019103e+11,
+     "percentage": 82,
+     "isp": "LLC InfoCentre"
+   },
+   {
+     "cdn": 4.9792735184e+10,
+     "p2p": 5.9780948389e+10,
+     "total": 1.09573683573e+11,
+     "percentage": 55,
+     "isp": "Karjaan Puhelin Oy"
+   },
+   {
+     "cdn": 3.037365698e+10,
+     "p2p": 7.9052146689e+10,
+     "total": 1.09425803669e+11,
+     "percentage": 73,
+     "isp": "UAB Cgates"
+   },
+   {
+     "cdn": 6.0838523701e+10,
+     "p2p": 4.8559698369e+10,
+     "total": 1.0939822207e+11,
+     "percentage": 45,
+     "isp": "Exatel S.A."
+   },
+   {
+     "cdn": 1.01991782277e+11,
+     "p2p": 7.364341649e+09,
+     "total": 1.09356123926e+11,
+     "percentage": 7,
+     "isp": "Nomotech SAS"
+   },
+   {
+     "cdn": 5.3318334076e+10,
+     "p2p": 5.5780215207e+10,
+     "total": 1.09098549283e+11,
+     "percentage": 52,
+     "isp": "Intersvyaz"
+   },
+   {
+     "cdn": 7.1399807065e+10,
+     "p2p": 3.7525329888e+10,
+     "total": 1.08925136953e+11,
+     "percentage": 35,
+     "isp": "XFone"
+   },
+   {
+     "cdn": 4.3633223338e+10,
+     "p2p": 6.5049309561e+10,
+     "total": 1.08682532899e+11,
+     "percentage": 60,
+     "isp": "Dial Telecom, a.s."
+   },
+   {
+     "cdn": 7.7030201835e+10,
+     "p2p": 3.1390993961e+10,
+     "total": 1.08421195796e+11,
+     "percentage": 29,
+     "isp": "K.B.A. Imoti Ltd."
+   },
+   {
+     "cdn": 7.1646548453e+10,
+     "p2p": 3.658307081e+10,
+     "total": 1.08229619263e+11,
+     "percentage": 34,
+     "isp": "Andorra Telecom Sau"
+   },
+   {
+     "cdn": 3.9609233764e+10,
+     "p2p": 6.7968327497e+10,
+     "total": 1.07577561261e+11,
+     "percentage": 64,
+     "isp": "Ramtel Ltd."
+   },
+   {
+     "cdn": 1.07535319537e+11,
+     "p2p": 0,
+     "total": 1.07535319537e+11,
+     "percentage": 0,
+     "isp": "OMV Aktiengesellschaft"
+   },
+   {
+     "cdn": 2.766072111e+09,
+     "p2p": 1.04409986991e+11,
+     "total": 1.07176059102e+11,
+     "percentage": 98,
+     "isp": "Vaggeryd Energi AB"
+   },
+   {
+     "cdn": 1.05543945548e+11,
+     "p2p": 1.497072964e+09,
+     "total": 1.07041018512e+11,
+     "percentage": 2,
+     "isp": "Fundacio Privada per a la Xarxa Lliure, Oberta i N"
+   },
+   {
+     "cdn": 2.4400123598e+10,
+     "p2p": 8.1925330104e+10,
+     "total": 1.06325453702e+11,
+     "percentage": 78,
+     "isp": "LLC McLaut-Invest"
+   },
+   {
+     "cdn": 3.7651670688e+10,
+     "p2p": 6.8625850306e+10,
+     "total": 1.06277520994e+11,
+     "percentage": 65,
+     "isp": "ENERGOTEL a.s."
+   },
+   {
+     "cdn": 1.827640216e+10,
+     "p2p": 8.7968017386e+10,
+     "total": 1.06244419546e+11,
+     "percentage": 83,
+     "isp": "JSC Zap-Sib TransTeleCom, Novosibirsk"
+   },
+   {
+     "cdn": 6.0018059742e+10,
+     "p2p": 4.5931148265e+10,
+     "total": 1.05949208007e+11,
+     "percentage": 44,
+     "isp": "C\u0026S Breitband GmbH"
+   },
+   {
+     "cdn": 8.0639977464e+10,
+     "p2p": 2.5170920209e+10,
+     "total": 1.05810897673e+11,
+     "percentage": 24,
+     "isp": "Digiweb ltd"
+   },
+   {
+     "cdn": 9.3973406118e+10,
+     "p2p": 1.1597434271e+10,
+     "total": 1.05570840389e+11,
+     "percentage": 11,
+     "isp": "Eweka Internet Services B.V."
+   },
+   {
+     "cdn": 3.2693303204e+10,
+     "p2p": 7.2750173859e+10,
+     "total": 1.05443477063e+11,
+     "percentage": 69,
+     "isp": "TM ULUSLARARASI ELEK. BIL. TEL. ve HAB. HIZM. A.S."
+   },
+   {
+     "cdn": 2.9557475045e+10,
+     "p2p": 7.5555463996e+10,
+     "total": 1.05112939041e+11,
+     "percentage": 72,
+     "isp": "TESAT Sp. z o.o"
+   },
+   {
+     "cdn": 7.0662574519e+10,
+     "p2p": 3.4360485538e+10,
+     "total": 1.05023060057e+11,
+     "percentage": 33,
+     "isp": "Init7 (Switzerland) Ltd."
+   },
+   {
+     "cdn": 2.3154461109e+10,
+     "p2p": 8.144735621e+10,
+     "total": 1.04601817319e+11,
+     "percentage": 78,
+     "isp": "Karlsborgs Energi"
+   },
+   {
+     "cdn": 6.1758466736e+10,
+     "p2p": 4.2687135458e+10,
+     "total": 1.04445602194e+11,
+     "percentage": 41,
+     "isp": "Telesystems of Ukraine LLC"
+   },
+   {
+     "cdn": 2.8341705329e+10,
+     "p2p": 7.589598026e+10,
+     "total": 1.04237685589e+11,
+     "percentage": 73,
+     "isp": "Internet bolaget Sverige AB"
+   },
+   {
+     "cdn": 4.3732413208e+10,
+     "p2p": 6.0443669465e+10,
+     "total": 1.04176082673e+11,
+     "percentage": 59,
+     "isp": "midlar ehf"
+   },
+   {
+     "cdn": 5.2508943586e+10,
+     "p2p": 5.1569494611e+10,
+     "total": 1.04078438197e+11,
+     "percentage": 50,
+     "isp": "Broadnet"
+   },
+   {
+     "cdn": 5.5930334678e+10,
+     "p2p": 4.7998370079e+10,
+     "total": 1.03928704757e+11,
+     "percentage": 47,
+     "isp": "Telelet A/S"
+   },
+   {
+     "cdn": 6.6082103042e+10,
+     "p2p": 3.746469755e+10,
+     "total": 1.03546800592e+11,
+     "percentage": 37,
+     "isp": "NWT a.s"
+   },
+   {
+     "cdn": 9.9174783819e+10,
+     "p2p": 3.193928524e+09,
+     "total": 1.02368712343e+11,
+     "percentage": 4,
+     "isp": "UPM-Kymmene Oyj"
+   },
+   {
+     "cdn": 2.7786025646e+10,
+     "p2p": 7.4544594104e+10,
+     "total": 1.0233061975e+11,
+     "percentage": 73,
+     "isp": "KRZYSZTOF NOWICKI AND DARIUSZ WESOLOWSKI trading a"
+   },
+   {
+     "cdn": 2.6479148906e+10,
+     "p2p": 7.5465055158e+10,
+     "total": 1.01944204064e+11,
+     "percentage": 75,
+     "isp": "PC Astra-net"
+   },
+   {
+     "cdn": 7.5397040393e+10,
+     "p2p": 2.6507594929e+10,
+     "total": 1.01904635322e+11,
+     "percentage": 27,
+     "isp": "GTS Hungary Telecommunications Limited Liability C"
+   },
+   {
+     "cdn": 2.1088070313e+10,
+     "p2p": 8.0732932423e+10,
+     "total": 1.01821002736e+11,
+     "percentage": 80,
+     "isp": "TerraHost AS"
+   },
+   {
+     "cdn": 8.4368262348e+10,
+     "p2p": 1.7179156857e+10,
+     "total": 1.01547419205e+11,
+     "percentage": 17,
+     "isp": "Wifirst S.A.S."
+   },
+   {
+     "cdn": 4.3073522896e+10,
+     "p2p": 5.7926901204e+10,
+     "total": 1.010004241e+11,
+     "percentage": 58,
+     "isp": "1\u00261 Internet AG"
+   },
+   {
+     "cdn": 2.947120755e+10,
+     "p2p": 7.1458421487e+10,
+     "total": 1.00929629037e+11,
+     "percentage": 71,
+     "isp": "WWZ Telekom AG"
+   },
+   {
+     "cdn": 6.2785205376e+10,
+     "p2p": 3.7746382595e+10,
+     "total": 1.00531587971e+11,
+     "percentage": 38,
+     "isp": "Swisscom"
+   },
+   {
+     "cdn": 1.3840767789e+10,
+     "p2p": 8.668115085e+10,
+     "total": 1.00521918639e+11,
+     "percentage": 87,
+     "isp": "ANEXIA Internetdienstleistungs GmbH"
+   },
+   {
+     "cdn": 5.4535175605e+10,
+     "p2p": 4.5089962994e+10,
+     "total": 9.9625138599e+10,
+     "percentage": 46,
+     "isp": "Seclan Oy"
+   },
+   {
+     "cdn": 6.3443720007e+10,
+     "p2p": 3.5899535388e+10,
+     "total": 9.9343255395e+10,
+     "percentage": 37,
+     "isp": "Cznet s.r.o."
+   },
+   {
+     "cdn": 5.0443365128e+10,
+     "p2p": 4.881423866e+10,
+     "total": 9.9257603788e+10,
+     "percentage": 50,
+     "isp": "Verizon Fios"
+   },
+   {
+     "cdn": 4.5968175972e+10,
+     "p2p": 5.3274795334e+10,
+     "total": 9.9242971306e+10,
+     "percentage": 54,
+     "isp": "UAB Baltnetos komunikacijos"
+   },
+   {
+     "cdn": 2.7745464651e+10,
+     "p2p": 7.136433919e+10,
+     "total": 9.9109803841e+10,
+     "percentage": 73,
+     "isp": "ELS Telecom, LTD"
+   },
+   {
+     "cdn": 9.815023208e+09,
+     "p2p": 8.9001846206e+10,
+     "total": 9.8816869414e+10,
+     "percentage": 91,
+     "isp": "Vlasimnet s.r.o."
+   },
+   {
+     "cdn": 3.3781176575e+10,
+     "p2p": 6.441028512e+10,
+     "total": 9.8191461695e+10,
+     "percentage": 66,
+     "isp": "TDC Group"
+   },
+   {
+     "cdn": 8.4195005247e+10,
+     "p2p": 1.3828930125e+10,
+     "total": 9.8023935372e+10,
+     "percentage": 15,
+     "isp": "TeNeT Scientific Production Enterprise LLC"
+   },
+   {
+     "cdn": 4.0970132186e+10,
+     "p2p": 5.6548964518e+10,
+     "total": 9.7519096704e+10,
+     "percentage": 58,
+     "isp": "ISP Fregat Ltd."
+   },
+   {
+     "cdn": 1.5186093095e+10,
+     "p2p": 8.1839770734e+10,
+     "total": 9.7025863829e+10,
+     "percentage": 85,
+     "isp": "Maxtel s.r.o."
+   },
+   {
+     "cdn": 4.4159312324e+10,
+     "p2p": 5.275272429e+10,
+     "total": 9.6912036614e+10,
+     "percentage": 55,
+     "isp": "Monaco Telecom"
+   },
+   {
+     "cdn": 5.5590533832e+10,
+     "p2p": 4.1254076825e+10,
+     "total": 9.6844610657e+10,
+     "percentage": 43,
+     "isp": "Electronic Communities Ltd"
+   },
+   {
+     "cdn": 2.8688950961e+10,
+     "p2p": 6.7976464807e+10,
+     "total": 9.6665415768e+10,
+     "percentage": 71,
+     "isp": "MTV Oy"
+   },
+   {
+     "cdn": 2.6182749753e+10,
+     "p2p": 7.0222367686e+10,
+     "total": 9.6405117439e+10,
+     "percentage": 73,
+     "isp": "PJSC Ukrtelecom"
+   },
+   {
+     "cdn": 9.2648786549e+10,
+     "p2p": 3.62424397e+09,
+     "total": 9.6273030519e+10,
+     "percentage": 4,
+     "isp": "NET IS SAT Ltd."
+   },
+   {
+     "cdn": 1.9080393547e+10,
+     "p2p": 7.6977349726e+10,
+     "total": 9.6057743273e+10,
+     "percentage": 81,
+     "isp": "Cablenet Communication Systems Ltd"
+   },
+   {
+     "cdn": 1.8108109958e+10,
+     "p2p": 7.77716191e+10,
+     "total": 9.5879729058e+10,
+     "percentage": 82,
+     "isp": "Bayonette AS"
+   },
+   {
+     "cdn": 2.1639946777e+10,
+     "p2p": 7.3110579946e+10,
+     "total": 9.4750526723e+10,
+     "percentage": 78,
+     "isp": "Pitline Ltd"
+   },
+   {
+     "cdn": 6.7858080041e+10,
+     "p2p": 2.6845200505e+10,
+     "total": 9.4703280546e+10,
+     "percentage": 29,
+     "isp": "NEP Connect BV"
+   },
+   {
+     "cdn": 3.1162237186e+10,
+     "p2p": 6.3429869941e+10,
+     "total": 9.4592107127e+10,
+     "percentage": 68,
+     "isp": "UPC"
+   },
+   {
+     "cdn": 1.4755154268e+10,
+     "p2p": 7.983165535e+10,
+     "total": 9.4586809618e+10,
+     "percentage": 85,
+     "isp": "Media Ltd"
+   },
+   {
+     "cdn": 4.838441426e+10,
+     "p2p": 4.6123567401e+10,
+     "total": 9.4507981661e+10,
+     "percentage": 49,
+     "isp": "Orange Israel"
+   },
+   {
+     "cdn": 9.4295991374e+10,
+     "p2p": 0,
+     "total": 9.4295991374e+10,
+     "percentage": 0,
+     "isp": "Sveriges Radio AB"
+   },
+   {
+     "cdn": 3.6087026653e+10,
+     "p2p": 5.813721002e+10,
+     "total": 9.4224236673e+10,
+     "percentage": 62,
+     "isp": "AinaCom Oy"
+   },
+   {
+     "cdn": 2.9724266293e+10,
+     "p2p": 6.4187816303e+10,
+     "total": 9.3912082596e+10,
+     "percentage": 69,
+     "isp": "Bolignet A/S"
+   },
+   {
+     "cdn": 3.3555855329e+10,
+     "p2p": 6.0307784237e+10,
+     "total": 9.3863639566e+10,
+     "percentage": 65,
+     "isp": "Kviknet.dk ApS"
+   },
+   {
+     "cdn": 5.9366406987e+10,
+     "p2p": 3.4205514465e+10,
+     "total": 9.3571921452e+10,
+     "percentage": 37,
+     "isp": "Internet Society of Israel"
+   },
+   {
+     "cdn": 1.18628001e+10,
+     "p2p": 8.1661843212e+10,
+     "total": 9.3524643312e+10,
+     "percentage": 88,
+     "isp": "Ikaalisten-Parkanon Puhelin Osakeyhtio Ltd"
+   },
+   {
+     "cdn": 8.2801274301e+10,
+     "p2p": 1.0546818238e+10,
+     "total": 9.3348092539e+10,
+     "percentage": 12,
+     "isp": "Virtuzo"
+   },
+   {
+     "cdn": 3.8559652867e+10,
+     "p2p": 5.4427267151e+10,
+     "total": 9.2986920018e+10,
+     "percentage": 59,
+     "isp": "Faust Isp Ltd."
+   },
+   {
+     "cdn": 9.2360282518e+10,
+     "p2p": 5.67009327e+08,
+     "total": 9.2927291845e+10,
+     "percentage": 1,
+     "isp": "Hochschule Aalen"
+   },
+   {
+     "cdn": 4.6292486871e+10,
+     "p2p": 4.6467415456e+10,
+     "total": 9.2759902327e+10,
+     "percentage": 51,
+     "isp": "Sil-miro Com Srl"
+   },
+   {
+     "cdn": 7.3879448622e+10,
+     "p2p": 1.8290114133e+10,
+     "total": 9.2169562755e+10,
+     "percentage": 20,
+     "isp": "Cleverfish Limited"
+   },
+   {
+     "cdn": 2.4832143279e+10,
+     "p2p": 6.7082826838e+10,
+     "total": 9.1914970117e+10,
+     "percentage": 73,
+     "isp": "LeaseWeb Netherlands B.V."
+   },
+   {
+     "cdn": 9.1512466474e+10,
+     "p2p": 2.102362e+08,
+     "total": 9.1722702674e+10,
+     "percentage": 1,
+     "isp": "DB Systel GmbH"
+   },
+   {
+     "cdn": 4.1833376537e+10,
+     "p2p": 4.9494951604e+10,
+     "total": 9.1328328141e+10,
+     "percentage": 55,
+     "isp": "Time Warner Cable"
+   },
+   {
+     "cdn": 2.138394248e+10,
+     "p2p": 6.9663856163e+10,
+     "total": 9.1047798643e+10,
+     "percentage": 77,
+     "isp": "Svorka Broadband AS"
+   },
+   {
+     "cdn": 2.1700502424e+10,
+     "p2p": 6.9230446084e+10,
+     "total": 9.0930948508e+10,
+     "percentage": 77,
+     "isp": "Telenor Hungary plc"
+   },
+   {
+     "cdn": 5.2474155973e+10,
+     "p2p": 3.8041649467e+10,
+     "total": 9.051580544e+10,
+     "percentage": 43,
+     "isp": "Kevag Telekom GmbH"
+   },
+   {
+     "cdn": 2.2407854391e+10,
+     "p2p": 6.7849249759e+10,
+     "total": 9.025710415e+10,
+     "percentage": 76,
+     "isp": "Servcom Sp. z o.o."
+   },
+   {
+     "cdn": 4.2832466606e+10,
+     "p2p": 4.718359756e+10,
+     "total": 9.0016064166e+10,
+     "percentage": 53,
+     "isp": "E-Light-Telecom"
+   },
+   {
+     "cdn": 2.9138311336e+10,
+     "p2p": 6.0772054379e+10,
+     "total": 8.9910365715e+10,
+     "percentage": 68,
+     "isp": "Poznanska Spoldzielnia Mieszkaniowa Winogrady w Po"
+   },
+   {
+     "cdn": 2.3505683012e+10,
+     "p2p": 6.6325294817e+10,
+     "total": 8.9830977829e+10,
+     "percentage": 74,
+     "isp": "Procono S.A."
+   },
+   {
+     "cdn": 1.6013089578e+10,
+     "p2p": 7.3817320094e+10,
+     "total": 8.9830409672e+10,
+     "percentage": 83,
+     "isp": "OOO NI"
+   },
+   {
+     "cdn": 3.9917091288e+10,
+     "p2p": 4.9703973034e+10,
+     "total": 8.9621064322e+10,
+     "percentage": 56,
+     "isp": "Ceska Telekomunikacni Infrastruktura a.s"
+   },
+   {
+     "cdn": 3.4371865641e+10,
+     "p2p": 5.4784975099e+10,
+     "total": 8.915684074e+10,
+     "percentage": 62,
+     "isp": "Korolevskiy gorodskoy infomacionniy center LLC"
+   },
+   {
+     "cdn": 9.839949668e+09,
+     "p2p": 7.8868178602e+10,
+     "total": 8.870812827e+10,
+     "percentage": 89,
+     "isp": "Sys-DataCom s.r.o."
+   },
+   {
+     "cdn": 1.9190572842e+10,
+     "p2p": 6.9261015758e+10,
+     "total": 8.84515886e+10,
+     "percentage": 79,
+     "isp": "Inter Connects Inc"
+   },
+   {
+     "cdn": 7.5578583751e+10,
+     "p2p": 1.2510366225e+10,
+     "total": 8.8088949976e+10,
+     "percentage": 15,
+     "isp": "K-NET SARL"
+   },
+   {
+     "cdn": 5.8343923009e+10,
+     "p2p": 2.9022236762e+10,
+     "total": 8.7366159771e+10,
+     "percentage": 34,
+     "isp": "Telstra Internet"
+   },
+   {
+     "cdn": 8.6602435435e+10,
+     "p2p": 0,
+     "total": 8.6602435435e+10,
+     "percentage": 0,
+     "isp": "Dom Maklerski Banku Ochrony Srodowiska SA"
+   },
+   {
+     "cdn": 5.3034071e+10,
+     "p2p": 3.3312535122e+10,
+     "total": 8.6346606122e+10,
+     "percentage": 39,
+     "isp": "EVRY AS"
+   },
+   {
+     "cdn": 8.269281732e+10,
+     "p2p": 3.407258773e+09,
+     "total": 8.6100076093e+10,
+     "percentage": 4,
+     "isp": "Universitaet der Bundeswehr Hamburg"
+   },
+   {
+     "cdn": 1.793800578e+10,
+     "p2p": 6.7031076317e+10,
+     "total": 8.4969082097e+10,
+     "percentage": 79,
+     "isp": "Telefiber AS"
+   },
+   {
+     "cdn": 6.1420207774e+10,
+     "p2p": 2.3205643942e+10,
+     "total": 8.4625851716e+10,
+     "percentage": 28,
+     "isp": "Level 3 Communications"
+   },
+   {
+     "cdn": 3.6276860478e+10,
+     "p2p": 4.8215195914e+10,
+     "total": 8.4492056392e+10,
+     "percentage": 58,
+     "isp": "Iway AG"
+   },
+   {
+     "cdn": 5.4904423363e+10,
+     "p2p": 2.9477587848e+10,
+     "total": 8.4382011211e+10,
+     "percentage": 35,
+     "isp": "Three Ireland"
+   },
+   {
+     "cdn": 6.3860733832e+10,
+     "p2p": 2.0311264799e+10,
+     "total": 8.4171998631e+10,
+     "percentage": 25,
+     "isp": "Deutsche Glasfaser Wholesale"
+   },
+   {
+     "cdn": 5.3822080349e+10,
+     "p2p": 2.9679131799e+10,
+     "total": 8.3501212148e+10,
+     "percentage": 36,
+     "isp": "Digital Cable Systems S.A."
+   },
+   {
+     "cdn": 8.579048602e+09,
+     "p2p": 7.454719391e+10,
+     "total": 8.3126242512e+10,
+     "percentage": 90,
+     "isp": "Ukrdatakom Ltd"
+   },
+   {
+     "cdn": 2.7906563086e+10,
+     "p2p": 5.5186018297e+10,
+     "total": 8.3092581383e+10,
+     "percentage": 67,
+     "isp": "SAS Neo Services"
+   },
+   {
+     "cdn": 7.635069426e+09,
+     "p2p": 7.5382685297e+10,
+     "total": 8.3017754723e+10,
+     "percentage": 91,
+     "isp": "Gbelynet"
+   },
+   {
+     "cdn": 3.1048151693e+10,
+     "p2p": 5.1400721264e+10,
+     "total": 8.2448872957e+10,
+     "percentage": 63,
+     "isp": "Hrvatski Telekom mobile broadband"
+   },
+   {
+     "cdn": 3.4570996525e+10,
+     "p2p": 4.7552890452e+10,
+     "total": 8.2123886977e+10,
+     "percentage": 58,
+     "isp": "Wroclaw Centre of Networking and Supercomputing"
+   },
+   {
+     "cdn": 7.1516944357e+10,
+     "p2p": 1.0521221828e+10,
+     "total": 8.2038166185e+10,
+     "percentage": 13,
+     "isp": "ServerSpace Limited"
+   },
+   {
+     "cdn": 3.5053183412e+10,
+     "p2p": 4.6189114536e+10,
+     "total": 8.1242297948e+10,
+     "percentage": 57,
+     "isp": "Chalmers University of Technology"
+   },
+   {
+     "cdn": 1.4321142648e+10,
+     "p2p": 6.6515234199e+10,
+     "total": 8.0836376847e+10,
+     "percentage": 83,
+     "isp": "COMA s.r.o."
+   },
+   {
+     "cdn": 2.5083534376e+10,
+     "p2p": 5.5724945121e+10,
+     "total": 8.0808479497e+10,
+     "percentage": 69,
+     "isp": "Dat, s.r.o."
+   },
+   {
+     "cdn": 2.4347137348e+10,
+     "p2p": 5.6382608717e+10,
+     "total": 8.0729746065e+10,
+     "percentage": 70,
+     "isp": "Vakka-Suomen Puhelin Oy"
+   },
+   {
+     "cdn": 7.7786693499e+10,
+     "p2p": 2.906174772e+09,
+     "total": 8.0692868271e+10,
+     "percentage": 4,
+     "isp": "UK Web.Solutions Direct Ltd"
+   },
+   {
+     "cdn": 1.2327928633e+10,
+     "p2p": 6.7916337388e+10,
+     "total": 8.0244266021e+10,
+     "percentage": 85,
+     "isp": "Digi.hu"
+   },
+   {
+     "cdn": 2.5110945133e+10,
+     "p2p": 5.4970191109e+10,
+     "total": 8.0081136242e+10,
+     "percentage": 69,
+     "isp": "Telekomunikacja Internetowa Sp. z o.o."
+   },
+   {
+     "cdn": 7.9945134482e+10,
+     "p2p": 0,
+     "total": 7.9945134482e+10,
+     "percentage": 0,
+     "isp": "KLM Royal Dutch Airlines"
+   },
+   {
+     "cdn": 3.8154308015e+10,
+     "p2p": 4.1526155643e+10,
+     "total": 7.9680463658e+10,
+     "percentage": 53,
+     "isp": "TurkNet Iletisim Hizmetleri A.S"
+   },
+   {
+     "cdn": 7.9532164937e+10,
+     "p2p": 0,
+     "total": 7.9532164937e+10,
+     "percentage": 0,
+     "isp": "Bankgirocentralen BGC AB"
+   },
+   {
+     "cdn": 1.7820243272e+10,
+     "p2p": 6.1670314066e+10,
+     "total": 7.9490557338e+10,
+     "percentage": 78,
+     "isp": "Irida Telekom Ltd."
+   },
+   {
+     "cdn": 1.3567547957e+10,
+     "p2p": 6.5795652785e+10,
+     "total": 7.9363200742e+10,
+     "percentage": 83,
+     "isp": "Tromso Kommune"
+   },
+   {
+     "cdn": 3.9861684819e+10,
+     "p2p": 3.9476628334e+10,
+     "total": 7.9338313153e+10,
+     "percentage": 50,
+     "isp": "Optima Telekom"
+   },
+   {
+     "cdn": 3.3263848378e+10,
+     "p2p": 4.601371593e+10,
+     "total": 7.9277564308e+10,
+     "percentage": 59,
+     "isp": "VIPnet d.o.o."
+   },
+   {
+     "cdn": 1.7813473681e+10,
+     "p2p": 6.101868538e+10,
+     "total": 7.8832159061e+10,
+     "percentage": 78,
+     "isp": "Cooolbox"
+   },
+   {
+     "cdn": 1.0351000147e+10,
+     "p2p": 6.8351342516e+10,
+     "total": 7.8702342663e+10,
+     "percentage": 87,
+     "isp": "Ipex Ltd."
+   },
+   {
+     "cdn": 1.1104797251e+10,
+     "p2p": 6.7355714334e+10,
+     "total": 7.8460511585e+10,
+     "percentage": 86,
+     "isp": "Lunet AB"
+   },
+   {
+     "cdn": 1.5474816466e+10,
+     "p2p": 6.294816475e+10,
+     "total": 7.8422981216e+10,
+     "percentage": 81,
+     "isp": "Bite Lietuva"
+   },
+   {
+     "cdn": 2.4098461229e+10,
+     "p2p": 5.4221089498e+10,
+     "total": 7.8319550727e+10,
+     "percentage": 70,
+     "isp": "Crnogorski Telekom a.d.Podgorica"
+   },
+   {
+     "cdn": 2.7710599834e+10,
+     "p2p": 5.0076454235e+10,
+     "total": 7.7787054069e+10,
+     "percentage": 65,
+     "isp": "Kcom"
+   },
+   {
+     "cdn": 1.5025180368e+10,
+     "p2p": 6.2749631779e+10,
+     "total": 7.7774812147e+10,
+     "percentage": 81,
+     "isp": "Intility"
+   },
+   {
+     "cdn": 2.1694849416e+10,
+     "p2p": 5.6010875027e+10,
+     "total": 7.7705724443e+10,
+     "percentage": 73,
+     "isp": "Cifra1"
+   },
+   {
+     "cdn": 6.6461280545e+10,
+     "p2p": 1.1187298949e+10,
+     "total": 7.7648579494e+10,
+     "percentage": 15,
+     "isp": "bol.com BV"
+   },
+   {
+     "cdn": 4.1649898621e+10,
+     "p2p": 3.5752102052e+10,
+     "total": 7.7402000673e+10,
+     "percentage": 47,
+     "isp": "NFOrce Entertainment B.V."
+   },
+   {
+     "cdn": 4.081726805e+10,
+     "p2p": 3.6130472436e+10,
+     "total": 7.6947740486e+10,
+     "percentage": 47,
+     "isp": "GGew net GmbH"
+   },
+   {
+     "cdn": 5.5436723089e+10,
+     "p2p": 2.1113538926e+10,
+     "total": 7.6550262015e+10,
+     "percentage": 28,
+     "isp": "XFERA Moviles S.A."
+   },
+   {
+     "cdn": 5.5057213069e+10,
+     "p2p": 2.1452850899e+10,
+     "total": 7.6510063968e+10,
+     "percentage": 29,
+     "isp": "Bergon Internet Ltd."
+   },
+   {
+     "cdn": 7.6222944632e+10,
+     "p2p": 0,
+     "total": 7.6222944632e+10,
+     "percentage": 0,
+     "isp": "ADAMANT, Ltd."
+   },
+   {
+     "cdn": 7.6137611579e+10,
+     "p2p": 0,
+     "total": 7.6137611579e+10,
+     "percentage": 0,
+     "isp": "Oil Refineries LTD"
+   },
+   {
+     "cdn": 7.1534802364e+10,
+     "p2p": 4.508045479e+09,
+     "total": 7.6042847843e+10,
+     "percentage": 6,
+     "isp": "Borregaard Industrier"
+   },
+   {
+     "cdn": 7.0707000026e+10,
+     "p2p": 5.270655232e+09,
+     "total": 7.5977655258e+10,
+     "percentage": 7,
+     "isp": "Outremer Telecom"
+   },
+   {
+     "cdn": 3.7774346451e+10,
+     "p2p": 3.7942980532e+10,
+     "total": 7.5717326983e+10,
+     "percentage": 51,
+     "isp": "3BB Broadband"
+   },
+   {
+     "cdn": 7.5325318227e+10,
+     "p2p": 0,
+     "total": 7.5325318227e+10,
+     "percentage": 0,
+     "isp": "Hafslund ASA"
+   },
+   {
+     "cdn": 1.6998451055e+10,
+     "p2p": 5.8258809741e+10,
+     "total": 7.5257260796e+10,
+     "percentage": 78,
+     "isp": "MTS OJSC"
+   },
+   {
+     "cdn": 7.4429907397e+10,
+     "p2p": 6.09454977e+08,
+     "total": 7.5039362374e+10,
+     "percentage": 1,
+     "isp": "VINI SAS"
+   },
+   {
+     "cdn": 3.6302745026e+10,
+     "p2p": 3.8556064145e+10,
+     "total": 7.4858809171e+10,
+     "percentage": 52,
+     "isp": "FASTER CZ spol. s r.o."
+   },
+   {
+     "cdn": 3.5442528622e+10,
+     "p2p": 3.8932613745e+10,
+     "total": 7.4375142367e+10,
+     "percentage": 53,
+     "isp": "Netvigator"
+   },
+   {
+     "cdn": 6.5657792503e+10,
+     "p2p": 8.597531077e+09,
+     "total": 7.425532358e+10,
+     "percentage": 12,
+     "isp": "SOCO Network Solutions GmbH"
+   },
+   {
+     "cdn": 3.9265635234e+10,
+     "p2p": 3.4949118472e+10,
+     "total": 7.4214753706e+10,
+     "percentage": 48,
+     "isp": "Cablecom Networking Limited"
+   },
+   {
+     "cdn": 1.606366614e+10,
+     "p2p": 5.8144936038e+10,
+     "total": 7.4208602178e+10,
+     "percentage": 79,
+     "isp": "Annet Ltd."
+   },
+   {
+     "cdn": 1.0089590359e+10,
+     "p2p": 6.392566178e+10,
+     "total": 7.4015252139e+10,
+     "percentage": 87,
+     "isp": "University Telecommunications Ltd."
+   },
+   {
+     "cdn": 5.1343658434e+10,
+     "p2p": 2.2646972506e+10,
+     "total": 7.399063094e+10,
+     "percentage": 31,
+     "isp": "K2 atmitec s.r.o."
+   },
+   {
+     "cdn": 2.6723721181e+10,
+     "p2p": 4.6706936024e+10,
+     "total": 7.3430657205e+10,
+     "percentage": 64,
+     "isp": "Fujitsu Finland Oy"
+   },
+   {
+     "cdn": 4.4097465424e+10,
+     "p2p": 2.9144640074e+10,
+     "total": 7.3242105498e+10,
+     "percentage": 40,
+     "isp": "Artnet Spolka z ograniczona odpowiedzialnoscia"
+   },
+   {
+     "cdn": 4.1196696324e+10,
+     "p2p": 3.1879107067e+10,
+     "total": 7.3075803391e+10,
+     "percentage": 44,
+     "isp": "BELNET LTD"
+   },
+   {
+     "cdn": 2.0842255828e+10,
+     "p2p": 5.2213508661e+10,
+     "total": 7.3055764489e+10,
+     "percentage": 72,
+     "isp": "LATNET SERVISS Ltd."
+   },
+   {
+     "cdn": 1.1463885226e+10,
+     "p2p": 6.1259778053e+10,
+     "total": 7.2723663279e+10,
+     "percentage": 85,
+     "isp": "JSC Kazakhtelecom"
+   },
+   {
+     "cdn": 1.9173012243e+10,
+     "p2p": 5.3545390281e+10,
+     "total": 7.2718402524e+10,
+     "percentage": 74,
+     "isp": "Laitilan Puhelin Osk"
+   },
+   {
+     "cdn": 1.7061760447e+10,
+     "p2p": 5.5445927442e+10,
+     "total": 7.2507687889e+10,
+     "percentage": 77,
+     "isp": "Equinix (Finland) Oy"
+   },
+   {
+     "cdn": 3.9321756622e+10,
+     "p2p": 3.2745960417e+10,
+     "total": 7.2067717039e+10,
+     "percentage": 46,
+     "isp": "AS INFONET"
+   },
+   {
+     "cdn": 3.4930300157e+10,
+     "p2p": 3.691349842e+10,
+     "total": 7.1843798577e+10,
+     "percentage": 52,
+     "isp": "Reunicable"
+   },
+   {
+     "cdn": 3.682723703e+10,
+     "p2p": 3.4867140802e+10,
+     "total": 7.1694377832e+10,
+     "percentage": 49,
+     "isp": "IPv4 Management SRL"
+   },
+   {
+     "cdn": 2.9392268548e+10,
+     "p2p": 4.2045461795e+10,
+     "total": 7.1437730343e+10,
+     "percentage": 59,
+     "isp": "NejTV a.s."
+   },
+   {
+     "cdn": 6.7195371236e+10,
+     "p2p": 4.20454344e+09,
+     "total": 7.1399914676e+10,
+     "percentage": 6,
+     "isp": "TraveKom Telekommunikationsgesellschaft mbH"
+   },
+   {
+     "cdn": 2.0100766526e+10,
+     "p2p": 5.1272640553e+10,
+     "total": 7.1373407079e+10,
+     "percentage": 72,
+     "isp": "OVPN Integritet AB"
+   },
+   {
+     "cdn": 4.3076835927e+10,
+     "p2p": 2.8278265325e+10,
+     "total": 7.1355101252e+10,
+     "percentage": 40,
+     "isp": "Cronyx Plus Ltd."
+   },
+   {
+     "cdn": 5.3418075089e+10,
+     "p2p": 1.7914304896e+10,
+     "total": 7.1332379985e+10,
+     "percentage": 26,
+     "isp": "MAnet GmbH"
+   },
+   {
+     "cdn": 1.7840458749e+10,
+     "p2p": 5.3381067429e+10,
+     "total": 7.1221526178e+10,
+     "percentage": 75,
+     "isp": "Fiber Grid Inc"
+   },
+   {
+     "cdn": 1.366043016e+10,
+     "p2p": 5.6956608003e+10,
+     "total": 7.0617038163e+10,
+     "percentage": 81,
+     "isp": "Stream Communications sp. z o.o."
+   },
+   {
+     "cdn": 4.4362132373e+10,
+     "p2p": 2.5917788508e+10,
+     "total": 7.0279920881e+10,
+     "percentage": 37,
+     "isp": "Private Joint Stock Company datagroup"
+   },
+   {
+     "cdn": 4.8379000642e+10,
+     "p2p": 2.1492260082e+10,
+     "total": 6.9871260724e+10,
+     "percentage": 31,
+     "isp": "Masmovil"
+   },
+   {
+     "cdn": 2.3005482558e+10,
+     "p2p": 4.6778462612e+10,
+     "total": 6.978394517e+10,
+     "percentage": 68,
+     "isp": "ASOM-Net forening"
+   },
+   {
+     "cdn": 3.4030143283e+10,
+     "p2p": 3.565725076e+10,
+     "total": 6.9687394043e+10,
+     "percentage": 52,
+     "isp": "CCP hf"
+   },
+   {
+     "cdn": 4.5376098657e+10,
+     "p2p": 2.421236592e+10,
+     "total": 6.9588464577e+10,
+     "percentage": 35,
+     "isp": "INTERRA telecommunications group, Ltd."
+   },
+   {
+     "cdn": 1.2402592255e+10,
+     "p2p": 5.7139493613e+10,
+     "total": 6.9542085868e+10,
+     "percentage": 83,
+     "isp": "Istad Nett as"
+   },
+   {
+     "cdn": 5.854431091e+10,
+     "p2p": 1.0989296701e+10,
+     "total": 6.9533607611e+10,
+     "percentage": 16,
+     "isp": "WorldStream B.V."
+   },
+   {
+     "cdn": 2.3365398668e+10,
+     "p2p": 4.6076950362e+10,
+     "total": 6.944234903e+10,
+     "percentage": 67,
+     "isp": "Cityfibre Limited"
+   },
+   {
+     "cdn": 1.5083542888e+10,
+     "p2p": 5.4257981866e+10,
+     "total": 6.9341524754e+10,
+     "percentage": 79,
+     "isp": "METRONET s.r.o."
+   },
+   {
+     "cdn": 1.5193698712e+10,
+     "p2p": 5.3980477266e+10,
+     "total": 6.9174175978e+10,
+     "percentage": 79,
+     "isp": "Dansk Net A/S"
+   },
+   {
+     "cdn": 1.7936447623e+10,
+     "p2p": 5.1177470633e+10,
+     "total": 6.9113918256e+10,
+     "percentage": 75,
+     "isp": "Ljungby Energi AB"
+   },
+   {
+     "cdn": 5.4165275895e+10,
+     "p2p": 1.4778138679e+10,
+     "total": 6.8943414574e+10,
+     "percentage": 22,
+     "isp": "Vodafone Libertel B.V."
+   },
+   {
+     "cdn": 2.0735638464e+10,
+     "p2p": 4.8139399514e+10,
+     "total": 6.8875037978e+10,
+     "percentage": 70,
+     "isp": "Globalcity Telecom S.R.L."
+   },
+   {
+     "cdn": 5.7414497309e+10,
+     "p2p": 1.136002246e+10,
+     "total": 6.8774519769e+10,
+     "percentage": 17,
+     "isp": "Etteplan Oy"
+   },
+   {
+     "cdn": 1.8487741328e+10,
+     "p2p": 5.0081879436e+10,
+     "total": 6.8569620764e+10,
+     "percentage": 74,
+     "isp": "University of Oulu"
+   },
+   {
+     "cdn": 2.1860268617e+10,
+     "p2p": 4.6501101599e+10,
+     "total": 6.8361370216e+10,
+     "percentage": 69,
+     "isp": "Echostar Studio Piotr Ziemniewicz Sp. z o.o."
+   },
+   {
+     "cdn": 6.3276916106e+10,
+     "p2p": 4.986537044e+09,
+     "total": 6.826345315e+10,
+     "percentage": 8,
+     "isp": "Telepark Passau GmbH"
+   },
+   {
+     "cdn": 1.9918494801e+10,
+     "p2p": 4.8196658509e+10,
+     "total": 6.811515331e+10,
+     "percentage": 71,
+     "isp": "Internet Binat Ltd"
+   },
+   {
+     "cdn": 3.9239244627e+10,
+     "p2p": 2.8818538334e+10,
+     "total": 6.8057782961e+10,
+     "percentage": 43,
+     "isp": "Falco Networks"
+   },
+   {
+     "cdn": 5.9754730763e+10,
+     "p2p": 8.264823364e+09,
+     "total": 6.8019554127e+10,
+     "percentage": 13,
+     "isp": "Telecommunication Company Varna EAD"
+   },
+   {
+     "cdn": 5.8132432376e+10,
+     "p2p": 9.866928615e+09,
+     "total": 6.7999360991e+10,
+     "percentage": 15,
+     "isp": "TELE AG"
+   },
+   {
+     "cdn": 3.6977247568e+10,
+     "p2p": 3.0777391339e+10,
+     "total": 6.7754638907e+10,
+     "percentage": 46,
+     "isp": "CGI Suomi Oy"
+   },
+   {
+     "cdn": 6.7743289748e+10,
+     "p2p": 0,
+     "total": 6.7743289748e+10,
+     "percentage": 0,
+     "isp": "Lufthansa Systems Hungaria Ltd."
+   },
+   {
+     "cdn": 4.9196772349e+10,
+     "p2p": 1.8524588896e+10,
+     "total": 6.7721361245e+10,
+     "percentage": 28,
+     "isp": "ConocoPhillips Company"
+   },
+   {
+     "cdn": 2.7789428781e+10,
+     "p2p": 3.9877024304e+10,
+     "total": 6.7666453085e+10,
+     "percentage": 59,
+     "isp": "Gavle Energi AB"
+   },
+   {
+     "cdn": 1.4591093021e+10,
+     "p2p": 5.3061776488e+10,
+     "total": 6.7652869509e+10,
+     "percentage": 79,
+     "isp": "F.h.u.p. turbo Jaroslaw Janczak"
+   },
+   {
+     "cdn": 3.7898315266e+10,
+     "p2p": 2.9623202107e+10,
+     "total": 6.7521517373e+10,
+     "percentage": 44,
+     "isp": "Jump Management SRL"
+   },
+   {
+     "cdn": 2.3611703063e+10,
+     "p2p": 4.3768253483e+10,
+     "total": 6.7379956546e+10,
+     "percentage": 65,
+     "isp": "Pe3ny Net s.r.o."
+   },
+   {
+     "cdn": 2.3628558367e+10,
+     "p2p": 4.351114732e+10,
+     "total": 6.7139705687e+10,
+     "percentage": 65,
+     "isp": "Dragon Internet a.s."
+   },
+   {
+     "cdn": 2.4449416406e+10,
+     "p2p": 4.2439687501e+10,
+     "total": 6.6889103907e+10,
+     "percentage": 64,
+     "isp": "Information System Authority"
+   },
+   {
+     "cdn": 1.0597362809e+10,
+     "p2p": 5.6250651926e+10,
+     "total": 6.6848014735e+10,
+     "percentage": 85,
+     "isp": "Edelino Commerce Inc"
+   },
+   {
+     "cdn": 1.8264186863e+10,
+     "p2p": 4.8436764832e+10,
+     "total": 6.6700951695e+10,
+     "percentage": 73,
+     "isp": "KOBA Sp. z o.o."
+   },
+   {
+     "cdn": 4.7665026291e+10,
+     "p2p": 1.8964412765e+10,
+     "total": 6.6629439056e+10,
+     "percentage": 29,
+     "isp": "CentroNet a.s."
+   },
+   {
+     "cdn": 1.6341178072e+10,
+     "p2p": 5.010586978e+10,
+     "total": 6.6447047852e+10,
+     "percentage": 76,
+     "isp": "31173 Services AB"
+   },
+   {
+     "cdn": 2.4104614774e+10,
+     "p2p": 4.2086873496e+10,
+     "total": 6.619148827e+10,
+     "percentage": 64,
+     "isp": "Institute of Bioorganic Chemistry Polish Academy o"
+   },
+   {
+     "cdn": 3.6494429545e+10,
+     "p2p": 2.9684795439e+10,
+     "total": 6.6179224984e+10,
+     "percentage": 45,
+     "isp": "KVE s.r.o."
+   },
+   {
+     "cdn": 2.2818864558e+10,
+     "p2p": 4.3334995283e+10,
+     "total": 6.6153859841e+10,
+     "percentage": 66,
+     "isp": "AIRWAYNET, a.s."
+   },
+   {
+     "cdn": 7.586350593e+09,
+     "p2p": 5.8371621455e+10,
+     "total": 6.5957972048e+10,
+     "percentage": 89,
+     "isp": "Viettel Corporation"
+   },
+   {
+     "cdn": 2.7622672918e+10,
+     "p2p": 3.8189644464e+10,
+     "total": 6.5812317382e+10,
+     "percentage": 59,
+     "isp": "Lancom Ltd."
+   },
+   {
+     "cdn": 6.1301122954e+10,
+     "p2p": 4.497935785e+09,
+     "total": 6.5799058739e+10,
+     "percentage": 7,
+     "isp": "Wifinity Ltd"
+   },
+   {
+     "cdn": 1.0985902837e+10,
+     "p2p": 5.4735516732e+10,
+     "total": 6.5721419569e+10,
+     "percentage": 84,
+     "isp": "Coolnet Communications ltd"
+   },
+   {
+     "cdn": 1.1753520856e+10,
+     "p2p": 5.3517936956e+10,
+     "total": 6.5271457812e+10,
+     "percentage": 82,
+     "isp": "SURANY.NET s.r.o."
+   },
+   {
+     "cdn": 4.6313413661e+10,
+     "p2p": 1.8923935368e+10,
+     "total": 6.5237349029e+10,
+     "percentage": 30,
+     "isp": "University of Cambridge"
+   },
+   {
+     "cdn": 2.7320061714e+10,
+     "p2p": 3.7875480179e+10,
+     "total": 6.5195541893e+10,
+     "percentage": 59,
+     "isp": "S1 Networks Oy"
+   },
+   {
+     "cdn": 5.2329950061e+10,
+     "p2p": 1.2822531412e+10,
+     "total": 6.5152481473e+10,
+     "percentage": 20,
+     "isp": "Demon Internet"
+   },
+   {
+     "cdn": 1.4674698474e+10,
+     "p2p": 5.0111083569e+10,
+     "total": 6.4785782043e+10,
+     "percentage": 78,
+     "isp": "Hringdu ehf"
+   },
+   {
+     "cdn": 6.3313674234e+10,
+     "p2p": 1.461144998e+09,
+     "total": 6.4774819232e+10,
+     "percentage": 3,
+     "isp": "HeLi NET Telekommunikation GmbH \u0026 Co. KG"
+   },
+   {
+     "cdn": 5.2766239526e+10,
+     "p2p": 1.1991359888e+10,
+     "total": 6.4757599414e+10,
+     "percentage": 19,
+     "isp": "TerraTransit AG"
+   },
+   {
+     "cdn": 1.4131286286e+10,
+     "p2p": 5.0498120959e+10,
+     "total": 6.4629407245e+10,
+     "percentage": 79,
+     "isp": "NK-NETT AS"
+   },
+   {
+     "cdn": 9.073497448e+09,
+     "p2p": 5.5510307582e+10,
+     "total": 6.458380503e+10,
+     "percentage": 86,
+     "isp": "Moscow State University"
+   },
+   {
+     "cdn": 2.0378277301e+10,
+     "p2p": 4.4134111304e+10,
+     "total": 6.4512388605e+10,
+     "percentage": 69,
+     "isp": "Leon Sp. z o.o."
+   },
+   {
+     "cdn": 6.1436466958e+10,
+     "p2p": 3.004833531e+09,
+     "total": 6.4441300489e+10,
+     "percentage": 5,
+     "isp": "TELTA Citynetz GmbH"
+   },
+   {
+     "cdn": 5.574355986e+09,
+     "p2p": 5.8847483773e+10,
+     "total": 6.4421839759e+10,
+     "percentage": 92,
+     "isp": "AVCOM d.o.o."
+   },
+   {
+     "cdn": 2.4381626623e+10,
+     "p2p": 3.9597362007e+10,
+     "total": 6.397898863e+10,
+     "percentage": 62,
+     "isp": "Korbank sp. z o.o."
+   },
+   {
+     "cdn": 1.7705812874e+10,
+     "p2p": 4.6261716491e+10,
+     "total": 6.3967529365e+10,
+     "percentage": 73,
+     "isp": "Neterra Ltd."
+   },
+   {
+     "cdn": 4.058285428e+09,
+     "p2p": 5.9848935746e+10,
+     "total": 6.3907221174e+10,
+     "percentage": 94,
+     "isp": "Teremki LAN LLC"
+   },
+   {
+     "cdn": 1.3437446573e+10,
+     "p2p": 5.0233371042e+10,
+     "total": 6.3670817615e+10,
+     "percentage": 79,
+     "isp": "KaseNet oy"
+   }
+ ]

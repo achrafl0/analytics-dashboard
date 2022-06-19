@@ -1,0 +1,79 @@
+[
+   {
+     "cdn": 340129689356,
+     "p2p": 385140218512,
+     "total": 725269907868,
+     "percentage": 54,
+     "manifest": "secure-streams.akamaized.net/swtv-1/index.m3u8",
+     "trafficPercentage": 77.75447782246378,
+     "maxViewers": 460,
+     "averageViewers": 423.2450980392157,
+     "live": "true"
+   },
+   {
+     "cdn": 71976666568,
+     "p2p": 53266846132,
+     "total": 125243512700,
+     "percentage": 43,
+     "manifest": "secure-streams.akamaized.net/swtv=2/index.m3u8",
+     "trafficPercentage": 13.42706187723424,
+     "maxViewers": 90,
+     "averageViewers": 73.62622549019608,
+     "live": "true"
+   },
+   {
+     "cdn": 23737375584,
+     "p2p": 36172951284,
+     "total": 59910326868,
+     "percentage": 61,
+     "manifest": "secure-streams.akamaized.net/bling-1/index.m3u8",
+     "trafficPercentage": 6.42284497296733,
+     "maxViewers": 43,
+     "averageViewers": 35.338235294117645,
+     "live": "true"
+   },
+   {
+     "cdn": 10192674948,
+     "p2p": 8267646080,
+     "total": 18460321028,
+     "percentage": 45,
+     "manifest": "secure-streams.akamaized.net/bling-2/index.m3u8",
+     "trafficPercentage": 1.9790875181718244,
+     "maxViewers": 19,
+     "averageViewers": 10.901960784313726,
+     "live": "true"
+   },
+   {
+     "cdn": 2024005752,
+     "p2p": 1318384632,
+     "total": 3342390384,
+     "percentage": 40,
+     "manifest": "secure-streams.akamaized.net/yodawg-1/index1600.m3u8",
+     "trafficPercentage": 0.3583297971795126,
+     "maxViewers": 6,
+     "averageViewers": 2.7597222222222224,
+     "live": "true"
+   },
+   {
+     "cdn": 378725248,
+     "p2p": 0,
+     "total": 378725248,
+     "percentage": 0,
+     "manifest": "secure-streams.akamaized.net/kappa-1/index800.m3u8",
+     "trafficPercentage": 0.04060224142345444,
+     "maxViewers": 2,
+     "averageViewers": 1.3529411764705883,
+     "live": "true"
+   },
+   {
+     "cdn": 164127948,
+     "p2p": 0,
+     "total": 164127948,
+     "percentage": 0,
+     "manifest": "secure-streams.akamaized.net/trolo/index400.m3u8",
+     "trafficPercentage": 0.017595770559854982,
+     "maxViewers": 1,
+     "averageViewers": 1,
+     "live": "true"
+   }
+ ]

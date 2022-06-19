@@ -1,0 +1,38 @@
+{
+  "urtoob": {
+    "clientid": 0,
+    "company": "UrToob",
+    "fname": "Chuck",
+    "lname": "Norris",
+    "email": "chuck.norris@urtoob.com",
+    "website": "www.urtoob.com",
+    "timestamp": 112730034000,
+    "description": "Ur big bad Toobing client that have a gazillion of traffic",
+    "password": "ToobRU",
+    "apitoken": "b68383a7-85d5-44bf-a86c-4937f36d915e"
+  },
+  "swagtv": {
+    "clientid": 1,
+    "company": "Swag TV USA",
+    "fname": "Willy",
+    "lname": "Wonka",
+    "email": "wwonka@swagtv.com",
+    "website": "www.swag.tv",
+    "timestamp": 1184916027000,
+    "description": "Medium-size swaggy TV channel",
+    "password": "bling$bling",
+    "apitoken": "7082f020-9410-4a53-9a2f-bbe7ed3e840a"
+  },
+  "shinynewclient": {
+    "clientid": 2,
+    "company": "Shiny New Client",
+    "fname": "Harry",
+    "lname": "Pottah",
+    "email": "hpottah@snc.io",
+    "website": "www.snc.io",
+    "timestamp": 870332827000,
+    "description": "Can't wait to try out this new tech!!!",
+    "password": "siriusblack",
+    "apitoken": "3d28a25d-ebb2-48f3-9b3c-1e25cecbf291"
+  }
+}
