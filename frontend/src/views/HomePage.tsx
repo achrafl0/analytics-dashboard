@@ -6,7 +6,7 @@ const HomePage: React.FC = () => {
     <div>
       <h2>Analytics Dashboard</h2>
       <p>
-        <Link to='/'>Go to login</Link>.
+        <Link to='/login'>Go to login</Link>.
       </p>
     </div>
   )

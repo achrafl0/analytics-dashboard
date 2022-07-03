@@ -26,15 +26,19 @@ class HttpClient {
 
   public constructor() {
     this.instance = axios.create({
-      baseURL: process.env.BASE_URL,
+      baseURL: process.env.REACT_APP_BASE_URL,
     })
+    console.log(process.env.REACT_APP_BASE_URL)
     this.session = LocalSession.get() ?? ''
     this._initialize()
   }
 
   private _initialize = () => {
     // Automatically append the session token to POST request ( except the Auth one)
-    this.instance.interceptors.request.use((config) => {
+    axios.interceptors.request.use((config) => {
+      if (!config){
+        return
+      }
       if (config.method === 'POST' && config.url !== '/auth') {
         if (!config.data) {
           config.data = {}

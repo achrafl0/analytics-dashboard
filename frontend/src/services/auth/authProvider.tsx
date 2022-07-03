@@ -1,6 +1,6 @@
 import React, { useState, useEffect, PropsWithChildren } from 'react'
 import { AuthContext, AuthContextType } from './authContext'
-import { login, logout } from '../api/user'
+import { login as apiLogin, logout } from '../api/user'
 import { httpClient } from '../http'
 import { LocalSession } from '../localStorage'
 
@@ -34,12 +34,12 @@ export const AuthProvider: React.FC<PropsWithChildren> = ({ children }) => {
         throw new Error('The mail or password was not provided')
       }
       try {
-        const { session_token: sessionToken } = await login({ identifiant, password })
+        const { session_token: sessionToken } = await apiLogin({ identifiant, password })
         setSession(sessionToken)
         LocalSession.set(sessionToken)
         httpClient.setAuthorization(sessionToken)
-      } catch {
-        throw new Error('Error while login')
+      } catch(e) {
+        console.error(e)
       } finally {
         setLoading(false)
       }

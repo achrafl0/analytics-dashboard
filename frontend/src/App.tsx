@@ -12,8 +12,8 @@ const App: React.FC = () => {
       <Navigation />
 
       <Routes>
+        <Route path='/' element={<HomePage />}></Route>
         <Route path='login' element={<LoginPage />}></Route>
-        <Route path='home' element={<HomePage />}></Route>
         <Route
           path='chart'
           element={
