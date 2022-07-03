@@ -5,7 +5,8 @@ module.exports = {
   },
   extends: [
     'plugin:react/recommended',
-    'airbnb',
+    'plugin:@typescript-eslint/recommended',
+    'airbnb-typescript',
     'prettier',
     'plugin:import/errors',
     'plugin:import/warnings',
@@ -18,6 +19,8 @@ module.exports = {
     },
     ecmaVersion: 'latest',
     sourceType: 'module',
+    project: "./tsconfig.json",
+    tsconfigRootDir: __dirname,
   },
   settings: {
     'import/resolver': {
@@ -31,7 +34,7 @@ module.exports = {
   rules: {
     'react/react-in-jsx-scope': 0,
     'react/self-closing-comp': 'off',
-    camelcase: 2,
+    camelcase: 'off',
     'spaced-comment': 2,
     'no-duplicate-imports': 0,
     'react/jsx-filename-extension': [2, { extensions: ['.js', '.jsx', '.ts', '.tsx'] }],

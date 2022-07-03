@@ -5,5 +5,5 @@ export type {
   IUpdateUserInfoReq,
   IUserCredentials,
   IUserInfoRes,
-  IUserApiEndpoint
+  IUserApiEndpoint,
 } from './user.types'

@@ -1,5 +1,5 @@
 export enum INotificationAPIEndpoint {
-  NOTIFICATION = "/notifications"
+  NOTIFICATION = '/notifications',
 }
 export enum INotificationType {
   NOTE = 'note',

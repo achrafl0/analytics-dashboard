@@ -1,9 +1,9 @@
 export enum IUserApiEndpoint {
-  AUTH = "/auth",
-  LOGOUT = "/logout",
-  INFO = "/myinfo",
-  UPDATEPWD = "/updatepwd",
-  UPDATEINFO = "/updateinfo"
+  AUTH = '/auth',
+  LOGOUT = '/logout',
+  INFO = '/myinfo',
+  UPDATEPWD = '/updatepwd',
+  UPDATEINFO = '/updateinfo',
 }
 
 export interface IUserCredentials {

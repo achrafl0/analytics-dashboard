@@ -1,4 +1,4 @@
-import React, { useState, ReactNode, useEffect, PropsWithChildren } from 'react'
+import React, { useState, useEffect, PropsWithChildren } from 'react'
 import { AuthContext, AuthContextType } from './authContext'
 import { login, logout } from '../api/user'
 import { httpClient } from '../http'
@@ -19,7 +19,7 @@ export const AuthProvider: React.FC<PropsWithChildren> = ({ children }) => {
     setLoading(false)
   }, [session])
 
-  const logout = async () => {
+  const logoutProvider = async () => {
     await logout()
     LocalSession.reset()
     setSession(null)
@@ -44,7 +44,7 @@ export const AuthProvider: React.FC<PropsWithChildren> = ({ children }) => {
         setLoading(false)
       }
     },
-    logout,
+    logout: logoutProvider,
     isAuth: () => session !== null,
   }
 

@@ -1,18 +1,29 @@
-import React, { useEffect, useRef } from 'react'
-import * as d3 from 'd3'
+import React from 'react'
+import Navigation from './components/Navigation'
+import { PrivatedRoute } from './components/PrivateRoute'
+import HomePage from './views/HomePage'
+import LoginPage from './views/LoginPage'
+import { Routes, Route } from 'react-router-dom'
+import ChartPage from './views/ChartPage'
 
-function App() {
-  const svgRef = useRef(null)
-
-  useEffect(() => {
-    const svgEl = d3.select(svgRef.current)
-    svgEl.append('circle').attr('cx', 150).attr('cy', 70).attr('r', 50)
-  }, [])
-
+const App: React.FC = () => {
   return (
-    <div className='App'>
-      <svg ref={svgRef} />
-    </div>
+    <>
+      <Navigation />
+
+      <Routes>
+        <Route path='login' element={<LoginPage />}></Route>
+        <Route path='home' element={<HomePage />}></Route>
+        <Route
+          path='chart'
+          element={
+            <PrivatedRoute>
+              <ChartPage />
+            </PrivatedRoute>
+          }
+        ></Route>
+      </Routes>
+    </>
   )
 }
 
