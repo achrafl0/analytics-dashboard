@@ -69,6 +69,14 @@ export interface IPlatformDataRes extends IAggregatedBandwithRes {
   max_viewers: number
   average_viewers: number
 }
+
+export type IDataResult =
+  | IBandwithDataRes
+  | IAudienceDataRes
+  | IStreamsDataRes
+  | ICountryDataRes
+  | IISPDataRes
+  | IPlatformDataRes
 /*
 export type IDataRes<T, AggregT, NonAggregT> = T extends IAggregatedDataReq ? AggregT : NonAggregT
 

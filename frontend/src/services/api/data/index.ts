@@ -21,4 +21,5 @@ export type {
   INonAggregatedBandwithRes,
   IPlatformDataRes,
   IStreamsDataRes,
+  IDataResult
 } from './data.types'
